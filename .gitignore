@@ -1,0 +1,147 @@
+# ── C / C++ 项目 .gitignore（网站开发 + 运维）──────────────────
+# ★ 编译产物和第三方依赖绝对不要推：体积大、还容易冲突
+
+# ── 编译产物 / 构建目录 ──
+build/
+Build/
+cmake-build-*/
+out/
+bin/
+obj/
+dist/
+Debug/
+Release/
+x64/
+x86/
+*.o
+*.obj
+*.lo
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+*.mod
+*.gch
+*.pch
+*.ilk
+*.pdb
+*.idb
+*.exp
+*.map
+*.elf
+*.hex
+
+# ── CMake ──
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+install_manifest.txt
+*.cmake.user
+CTestTestfile.cmake
+Testing/
+CPackConfig.cmake
+CPackSourceConfig.cmake
+
+# ── Make / Autotools ──
+.lo
+.la
+.libs/
+.deps/
+autom4te.cache/
+config.log
+config.status
+stamp-h1
+
+# ── 包管理器 / 依赖（不要提交，用清单文件还原）──
+vcpkg_installed/
+conan/
+.conan/
+conanbuildinfo.*
+deps/
+third_party/build/
+
+# ── 编辑器 / IDE ──
+.vscode/*
+!.vscode/settings.json.example
+!.vscode/c_cpp_properties.json.example
+!.vscode/launch.json.example
+!.vscode/tasks.json.example
+.idea/
+*.cbp
+*.kdev4
+*.sublime-workspace
+*.sublime-project
+.vs/
+*.vcxproj.user
+*.VC.db
+compile_commands.json
+.clangd/
+
+# ── 调试 / 性能分析 ──
+*.core
+core
+core.*
+vgcore.*
+perf.data*
+callgrind.out.*
+*.trace
+
+# ── 测试 / 覆盖率 ──
+*.gcda
+*.gcno
+*.gcov
+coverage/
+
+# ── 运维相关（★ 这类绝对不能推）──
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+.env
+.env.*
+!.env.example
+secrets.*
+*.secret
+credentials.*
+htpasswd
+*.conf.local
+deploy.local.*
+
+# ── 日志 / 运行时数据 ──
+*.log
+logs/
+*.pid
+*.sock
+*.sqlite
+*.sqlite3
+*.db
+tmp/
+temp/
+
+# ── 网站前端产物（按需调整）──
+public/assets/
+static/dist/
+node_modules/
+.next/
+.nuxt/
+
+# ── 系统 ──
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+*.orig
+*.rej
