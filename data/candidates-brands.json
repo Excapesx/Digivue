@@ -1,0 +1,4707 @@
+{
+  "generatedAt": "2026-10-18T05:16:15.798Z",
+  "source": "official-brands",
+  "count": 274,
+  "candidates": [
+    {
+      "key": "苹果|airpods5",
+      "brand": "苹果",
+      "model": "AirPods 5",
+      "display": "苹果 AirPods 5",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/airpods-5/specs/",
+      "offers": [
+        {
+          "sku": "apple-airpods-5",
+          "title": "AirPods 5",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/airpods-5/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|airpodsmax2",
+      "brand": "苹果",
+      "model": "AirPods Max 2",
+      "display": "苹果 AirPods Max 2",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/airpods-max/specs/",
+      "offers": [
+        {
+          "sku": "apple-airpods-max",
+          "title": "AirPods Max 2",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/airpods-max/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|airpodspro3",
+      "brand": "苹果",
+      "model": "AirPods Pro 3",
+      "display": "苹果 AirPods Pro 3",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/airpods-pro/specs/",
+      "offers": [
+        {
+          "sku": "apple-airpods-pro",
+          "title": "AirPods Pro 3",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/airpods-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|visionpro",
+      "brand": "苹果",
+      "model": "Vision Pro",
+      "display": "苹果 Vision Pro",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/apple-vision-pro/specs/",
+      "offers": [
+        {
+          "sku": "apple-apple-vision-pro",
+          "title": "Apple Vision Pro",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/apple-vision-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|watchse3",
+      "brand": "苹果",
+      "model": "Watch SE 3",
+      "display": "苹果 Watch SE 3",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/apple-watch-se-3/specs/",
+      "offers": [
+        {
+          "sku": "apple-apple-watch-se-3",
+          "title": "Apple Watch SE 3",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/apple-watch-se-3/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|watchseries12",
+      "brand": "苹果",
+      "model": "Watch Series 12",
+      "display": "苹果 Watch Series 12",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/apple-watch-series-12/specs/",
+      "offers": [
+        {
+          "sku": "apple-apple-watch-series-12",
+          "title": "Apple Watch Series 12",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/apple-watch-series-12/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|watchultra4",
+      "brand": "苹果",
+      "model": "Watch Ultra 4",
+      "display": "苹果 Watch Ultra 4",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/apple-watch-ultra-4/specs/",
+      "offers": [
+        {
+          "sku": "apple-apple-watch-ultra-4",
+          "title": "Apple Watch Ultra 4",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/apple-watch-ultra-4/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|homepod(第二代)",
+      "brand": "苹果",
+      "model": "HomePod (第二代)",
+      "display": "苹果 HomePod (第二代)",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/homepod-2nd-generation/specs/",
+      "offers": [
+        {
+          "sku": "apple-homepod-2nd-generation",
+          "title": "HomePod (第二代)",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/homepod-2nd-generation/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|homepodmini2",
+      "brand": "苹果",
+      "model": "HomePod mini 2",
+      "display": "苹果 HomePod mini 2",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/homepod-mini/specs/",
+      "offers": [
+        {
+          "sku": "apple-homepod-mini",
+          "title": "HomePod mini 2",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/homepod-mini/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|ipad",
+      "brand": "苹果",
+      "model": "iPad",
+      "display": "苹果 iPad",
+      "category": "tablet",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/ipad-11/specs/",
+      "offers": [
+        {
+          "sku": "apple-ipad-11",
+          "title": "iPad",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/ipad-11/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|ipadair",
+      "brand": "苹果",
+      "model": "iPad Air",
+      "display": "苹果 iPad Air",
+      "category": "tablet",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/ipad-air/specs/",
+      "offers": [
+        {
+          "sku": "apple-ipad-air",
+          "title": "iPad Air",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/ipad-air/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|ipadmini",
+      "brand": "苹果",
+      "model": "iPad mini",
+      "display": "苹果 iPad mini",
+      "category": "tablet",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/ipad-mini/specs/",
+      "offers": [
+        {
+          "sku": "apple-ipad-mini",
+          "title": "iPad mini",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/ipad-mini/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|11英寸ipadpro和13英寸ipadpro",
+      "brand": "苹果",
+      "model": "11 英寸 iPad Pro 和 13 英寸 iPad Pro",
+      "display": "苹果 11 英寸 iPad Pro 和 13 英寸 iPad Pro",
+      "category": "tablet",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/ipad-pro/specs/",
+      "offers": [
+        {
+          "sku": "apple-ipad-pro",
+          "title": "11 英寸 iPad Pro 和 13 英寸 iPad Pro",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/ipad-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|iphone17",
+      "brand": "苹果",
+      "model": "iPhone 17",
+      "display": "苹果 iPhone 17",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/iphone-17/specs/",
+      "offers": [
+        {
+          "sku": "apple-iphone-17",
+          "title": "iPhone 17",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/iphone-17/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|iphone17e",
+      "brand": "苹果",
+      "model": "iPhone 17e",
+      "display": "苹果 iPhone 17e",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/iphone-17e/specs/",
+      "offers": [
+        {
+          "sku": "apple-iphone-17e",
+          "title": "iPhone 17e",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/iphone-17e/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|iphone18pro",
+      "brand": "苹果",
+      "model": "iPhone 18 Pro",
+      "display": "苹果 iPhone 18 Pro",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/iphone-18-pro/specs/",
+      "offers": [
+        {
+          "sku": "apple-iphone-18-pro",
+          "title": "iPhone 18 Pro",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/iphone-18-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|iphoneair",
+      "brand": "苹果",
+      "model": "iPhone Air",
+      "display": "苹果 iPhone Air",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/iphone-air/specs/",
+      "offers": [
+        {
+          "sku": "apple-iphone-air",
+          "title": "iPhone Air",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/iphone-air/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|iphoneduo",
+      "brand": "苹果",
+      "model": "iPhone Duo",
+      "display": "苹果 iPhone Duo",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/iphone-duo/specs/",
+      "offers": [
+        {
+          "sku": "apple-iphone-duo",
+          "title": "iPhone Duo",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/iphone-duo/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|macmini",
+      "brand": "苹果",
+      "model": "Mac mini",
+      "display": "苹果 Mac mini",
+      "category": "desktop",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/mac-mini/specs/",
+      "offers": [
+        {
+          "sku": "apple-mac-mini",
+          "title": "Mac mini",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/mac-mini/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|macstudio",
+      "brand": "苹果",
+      "model": "Mac Studio",
+      "display": "苹果 Mac Studio",
+      "category": "desktop",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/mac-studio/specs/",
+      "offers": [
+        {
+          "sku": "apple-mac-studio",
+          "title": "Mac Studio",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/mac-studio/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|macbookair",
+      "brand": "苹果",
+      "model": "MacBook Air",
+      "display": "苹果 MacBook Air",
+      "category": "laptop",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/macbook-air/specs/",
+      "offers": [
+        {
+          "sku": "apple-macbook-air",
+          "title": "MacBook Air",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/macbook-air/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|macbookneo",
+      "brand": "苹果",
+      "model": "MacBook Neo",
+      "display": "苹果 MacBook Neo",
+      "category": "laptop",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/macbook-neo/specs/",
+      "offers": [
+        {
+          "sku": "apple-macbook-neo",
+          "title": "MacBook Neo",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/macbook-neo/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|macbookpro",
+      "brand": "苹果",
+      "model": "MacBook Pro",
+      "display": "苹果 MacBook Pro",
+      "category": "laptop",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/macbook-pro/specs/",
+      "offers": [
+        {
+          "sku": "apple-macbook-pro",
+          "title": "MacBook Pro",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/macbook-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|studiodisplayxdr",
+      "brand": "苹果",
+      "model": "Studio Display XDR",
+      "display": "苹果 Studio Display XDR",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/studio-display-xdr/specs/",
+      "offers": [
+        {
+          "sku": "apple-studio-display-xdr",
+          "title": "Studio Display XDR",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/studio-display-xdr/specs/"
+        }
+      ]
+    },
+    {
+      "key": "苹果|studiodisplay",
+      "brand": "苹果",
+      "model": "Studio Display",
+      "display": "苹果 Studio Display",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://www.apple.com.cn/studio-display/specs/",
+      "offers": [
+        {
+          "sku": "apple-studio-display",
+          "title": "Studio Display",
+          "source": "official",
+          "sourceUrl": "https://www.apple.com.cn/studio-display/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|编织数据线（max120w）",
+      "brand": "华为",
+      "model": "编织数据线（Max 120 W）",
+      "display": "华为 编织数据线（Max 120 W）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/120w-braided-data-cable-usb-c-to-usb-c/specs/",
+      "offers": [
+        {
+          "sku": "huawei-120w-braided-data-cable-usb-c-to-usb-c",
+          "title": "编织数据线（Max 120 W）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/120w-braided-data-cable-usb-c-to-usb-c/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|编织数据线（max140w）",
+      "brand": "华为",
+      "model": "编织数据线（Max 140 W）",
+      "display": "华为 编织数据线（Max 140 W）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/140w-braided-data-cable-usb-c-to-usb-c/specs/",
+      "offers": [
+        {
+          "sku": "huawei-140w-braided-data-cable-usb-c-to-usb-c",
+          "title": "编织数据线（Max 140 W）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/140w-braided-data-cable-usb-c-to-usb-c/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|6a数据线usbtype",
+      "brand": "华为",
+      "model": "6A 数据线 USB Type",
+      "display": "华为 6A 数据线 USB Type",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/6a-data-cable-usb-a-to-usb-c/specs/",
+      "offers": [
+        {
+          "sku": "huawei-6a-data-cable-usb-a-to-usb-c",
+          "title": "6A 数据线 USB Type",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/6a-data-cable-usb-a-to-usb-c/specs/"
+        },
+        {
+          "sku": "huawei-6a-data-cable-usb-c-to-usb-c",
+          "title": "6A 数据线 USB Type",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/6a-data-cable-usb-c-to-usb-c/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|风范双肩包",
+      "brand": "华为",
+      "model": "风范双肩包",
+      "display": "华为 风范双肩包",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/classic-backpack/specs/",
+      "offers": [
+        {
+          "sku": "huawei-classic-backpack",
+          "title": "风范双肩包",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/classic-backpack/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|x",
+      "brand": "华为",
+      "model": "X",
+      "display": "华为 X",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/drum-cartridge-x15000-for-pixlab-x1/specs/",
+      "offers": [
+        {
+          "sku": "huawei-drum-cartridge-x15000-for-pixlab-x1",
+          "title": "HUAWEI X",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/drum-cartridge-x15000-for-pixlab-x1/specs/"
+        },
+        {
+          "sku": "huawei-drum-cartridge-x15000bz-for-pixlab-b5",
+          "title": "HUAWEI X",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/business/printers/drum-cartridge-x15000bz-for-pixlab-b5/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|×djiosmopocket4",
+      "brand": "华为",
+      "model": "× DJI Osmo Pocket 4",
+      "display": "华为 × DJI Osmo Pocket 4",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/huawei-dji-osmo-pocket-4/specs/",
+      "offers": [
+        {
+          "sku": "huawei-huawei-dji-osmo-pocket-4",
+          "title": "HUAWEI × DJI Osmo Pocket 4",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/huawei-dji-osmo-pocket-4/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|轻睿手提包",
+      "brand": "华为",
+      "model": "轻睿手提包",
+      "display": "华为 轻睿手提包",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/laptop-bag/specs/",
+      "offers": [
+        {
+          "sku": "huawei-laptop-bag",
+          "title": "轻睿手提包",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/laptop-bag/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|灵犀悬浮触控",
+      "brand": "华为",
+      "model": "灵犀悬浮触控",
+      "display": "华为 灵犀悬浮触控",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/lingxi-hover-controller/specs/",
+      "offers": [
+        {
+          "sku": "huawei-lingxi-hover-controller",
+          "title": "灵犀悬浮触控",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/lingxi-hover-controller/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|灵犀手写笔",
+      "brand": "华为",
+      "model": "灵犀手写笔",
+      "display": "华为 灵犀手写笔",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/lingxi-pencil-set/specs/",
+      "offers": [
+        {
+          "sku": "huawei-lingxi-pencil-set",
+          "title": "灵犀手写笔",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/lingxi-pencil-set/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|灵犀指向遥控",
+      "brand": "华为",
+      "model": "灵犀指向遥控",
+      "display": "华为 灵犀指向遥控",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/lingxi-remote/specs/",
+      "offers": [
+        {
+          "sku": "huawei-lingxi-remote",
+          "title": "灵犀指向遥控",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/lingxi-remote/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|冰糖全能充电器（max100w）",
+      "brand": "华为",
+      "model": "冰糖全能充电器（Max 100 W）",
+      "display": "华为 冰糖全能充电器（Max 100 W）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/mini-supercharge-max-100w/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mini-supercharge-max-100w",
+          "title": "冰糖全能充电器（Max 100 W）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/mini-supercharge-max-100w/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|冰糖全能充电器（max66w）",
+      "brand": "华为",
+      "model": "冰糖全能充电器（Max 66 W）",
+      "display": "华为 冰糖全能充电器（Max 66 W）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/mini-supercharge-max-66w/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mini-supercharge-max-66w",
+          "title": "冰糖全能充电器（Max 66 W）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/mini-supercharge-max-66w/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智能体脂秤3蓝牙版",
+      "brand": "华为",
+      "model": "智能体脂秤 3 蓝牙版",
+      "display": "华为 智能体脂秤 3 蓝牙版",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/scale-3-bluetooth/specs/",
+      "offers": [
+        {
+          "sku": "huawei-scale-3-bluetooth",
+          "title": "智能体脂秤 3 蓝牙版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/scale-3-bluetooth/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智能体脂秤3pro",
+      "brand": "华为",
+      "model": "智能体脂秤 3 Pro",
+      "display": "华为 智能体脂秤 3 Pro",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/scale-3-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-scale-3-pro",
+          "title": "智能体脂秤 3 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/scale-3-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智能体脂秤3wi",
+      "brand": "华为",
+      "model": "智能体脂秤 3 Wi",
+      "display": "华为 智能体脂秤 3 Wi",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/scale-3-wifi/specs/",
+      "offers": [
+        {
+          "sku": "huawei-scale-3-wifi",
+          "title": "智能体脂秤 3 Wi",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/scale-3-wifi/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|轻尚双肩包（第二代）",
+      "brand": "华为",
+      "model": "轻尚双肩包（第二代）",
+      "display": "华为 轻尚双肩包（第二代）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/stylish-backpack-2nd-generation/specs/",
+      "offers": [
+        {
+          "sku": "huawei-stylish-backpack-2nd-generation",
+          "title": "HUAWEI 轻尚双肩包（第二代）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/stylish-backpack-2nd-generation/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|轻尚双肩包",
+      "brand": "华为",
+      "model": "轻尚双肩包",
+      "display": "华为 轻尚双肩包",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/stylish-backpack-3rd-generation/specs/",
+      "offers": [
+        {
+          "sku": "huawei-stylish-backpack-3rd-generation",
+          "title": "轻尚双肩包",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/stylish-backpack-3rd-generation/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|多协议超级快充移动电源10000mah（max22.5wse）",
+      "brand": "华为",
+      "model": "多协议超级快充移动电源 10000 mAh（Max 22.5W SE）",
+      "display": "华为 多协议超级快充移动电源 10000 mAh（Max 22.5W SE）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-10000mah-power-bank/specs/",
+      "offers": [
+        {
+          "sku": "huawei-supercharge-10000mah-power-bank",
+          "title": "多协议超级快充移动电源 10000 mAh（Max 22.5W SE）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-10000mah-power-bank/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|全能充车载充电器（max100w）",
+      "brand": "华为",
+      "model": "全能充车载充电器（Max 100 W）",
+      "display": "华为 全能充车载充电器（Max 100 W）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-car-charger-max-100w/specs/",
+      "offers": [
+        {
+          "sku": "huawei-supercharge-car-charger-max-100w",
+          "title": "全能充车载充电器（Max 100 W）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-car-charger-max-100w/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|超级快充车载充电器（max66w）",
+      "brand": "华为",
+      "model": "超级快充车载充电器（Max 66 W）",
+      "display": "华为 超级快充车载充电器（Max 66 W）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-car-charger-max-66w/specs/",
+      "offers": [
+        {
+          "sku": "huawei-supercharge-car-charger-max-66w",
+          "title": "超级快充车载充电器（Max 66 W）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-car-charger-max-66w/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|全能充车载充电器（max88w）",
+      "brand": "华为",
+      "model": "全能充车载充电器（Max 88 W）",
+      "display": "华为 全能充车载充电器（Max 88 W）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-car-charger-max-88w/specs/",
+      "offers": [
+        {
+          "sku": "huawei-supercharge-car-charger-max-88w",
+          "title": "全能充车载充电器（Max 88 W）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-car-charger-max-88w/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|全能充电器（max100w）",
+      "brand": "华为",
+      "model": "全能充电器（Max 100 W）",
+      "display": "华为 全能充电器（Max 100 W）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-max-100w/specs/",
+      "offers": [
+        {
+          "sku": "huawei-supercharge-max-100w",
+          "title": "全能充电器（Max 100 W）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-max-100w/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|超级快充电源适配器（max140w）",
+      "brand": "华为",
+      "model": "超级快充电源适配器 （Max 140 W）",
+      "display": "华为 超级快充电源适配器 （Max 140 W）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-max-140w/specs/",
+      "offers": [
+        {
+          "sku": "huawei-supercharge-max-140w",
+          "title": "超级快充电源适配器 （Max 140 W）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-max-140w/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|冰糖全能充（superchargemax40w）",
+      "brand": "华为",
+      "model": "冰糖全能充（SuperCharge Max 40 W）",
+      "display": "华为 冰糖全能充（SuperCharge Max 40 W）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-max-40w/specs/",
+      "offers": [
+        {
+          "sku": "huawei-supercharge-max-40w",
+          "title": "冰糖全能充（SuperCharge Max 40 W）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-max-40w/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|超级快充多设备电源适配器（max65w）",
+      "brand": "华为",
+      "model": "超级快充多设备电源适配器（Max 65 W）",
+      "display": "华为 超级快充多设备电源适配器（Max 65 W）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-max-65w/specs/",
+      "offers": [
+        {
+          "sku": "huawei-supercharge-max-65w",
+          "title": "HUAWEI 超级快充多设备电源适配器（Max 65 W）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-max-65w/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|全能充电器（max66w）",
+      "brand": "华为",
+      "model": "全能充电器（Max 66 W）",
+      "display": "华为 全能充电器（Max 66 W）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-max-66w/specs/",
+      "offers": [
+        {
+          "sku": "huawei-supercharge-max-66w",
+          "title": "全能充电器（Max 66 W）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-max-66w/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|全能充电器（superchargemax88w）",
+      "brand": "华为",
+      "model": "全能充电器（SuperCharge Max 88 W）",
+      "display": "华为 全能充电器（SuperCharge Max 88 W）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-max-88w/specs/",
+      "offers": [
+        {
+          "sku": "huawei-supercharge-max-88w",
+          "title": "全能充电器（SuperCharge Max 88 W）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-max-88w/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|全能充多口充电器（max100w）",
+      "brand": "华为",
+      "model": "全能充多口充电器（Max 100 W）",
+      "display": "华为 全能充多口充电器（Max 100 W）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-multi-port-charger-max-100w-black/specs/",
+      "offers": [
+        {
+          "sku": "huawei-supercharge-multi-port-charger-max-100w-black",
+          "title": "全能充多口充电器（Max 100 W）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-multi-port-charger-max-100w-black/specs/"
+        },
+        {
+          "sku": "huawei-supercharge-multi-port-charger-max-100w",
+          "title": "全能充多口充电器 （Max 100 W）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-multi-port-charger-max-100w/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|超级快充充电器（max40w）",
+      "brand": "华为",
+      "model": "超级快充充电器（Max 40 W）",
+      "display": "华为 超级快充充电器（Max 40 W）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-wall-charger-max-40w/specs/",
+      "offers": [
+        {
+          "sku": "huawei-supercharge-wall-charger-max-40w",
+          "title": "超级快充充电器（Max 40 W）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-wall-charger-max-40w/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|超级快充无线车充（max80w）",
+      "brand": "华为",
+      "model": "超级快充无线车充（Max 80 W）",
+      "display": "华为 超级快充无线车充（Max 80 W）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-wireless-car-charger-max-80w/specs/",
+      "offers": [
+        {
+          "sku": "huawei-supercharge-wireless-car-charger-max-80w",
+          "title": "超级快充无线车充（Max 80 W）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-wireless-car-charger-max-80w/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|超级快充立式无线充电器（max50w）",
+      "brand": "华为",
+      "model": "超级快充立式无线充电器（Max 50 W）",
+      "display": "华为 超级快充立式无线充电器（Max 50 W）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-wireless-charger-stand-max-50w/specs/",
+      "offers": [
+        {
+          "sku": "huawei-supercharge-wireless-charger-stand-max-50w",
+          "title": "超级快充立式无线充电器（Max 50 W）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-wireless-charger-stand-max-50w/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|超级快充立式无线充电器（max80w）",
+      "brand": "华为",
+      "model": "超级快充立式无线充电器（Max 80 W）",
+      "display": "华为 超级快充立式无线充电器（Max 80 W）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-wireless-charger-stand-max-80w/specs/",
+      "offers": [
+        {
+          "sku": "huawei-supercharge-wireless-charger-stand-max-80w",
+          "title": "超级快充立式无线充电器（Max 80 W）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/supercharge-wireless-charger-stand-max-80w/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|自带线全能充移动电源（100w12000）",
+      "brand": "华为",
+      "model": "自带线全能充移动电源（100 W 12000）",
+      "display": "华为 自带线全能充移动电源（100 W 12000）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/superpower-12000mah-power-bank-max-100w/specs/",
+      "offers": [
+        {
+          "sku": "huawei-superpower-12000mah-power-bank-max-100w",
+          "title": "自带线全能充移动电源（100 W 12000）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/superpower-12000mah-power-bank-max-100w/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|自带线全能充移动电源（66w12000）",
+      "brand": "华为",
+      "model": "自带线全能充移动电源（66 W 12000）",
+      "display": "华为 自带线全能充移动电源（66 W 12000）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/superpower-12000mah-power-bank-max-66w/specs/",
+      "offers": [
+        {
+          "sku": "huawei-superpower-12000mah-power-bank-max-66w",
+          "title": "自带线全能充移动电源（66 W 12000）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/superpower-12000mah-power-bank-max-66w/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|自带线全能充智能移动电源（100w12000）",
+      "brand": "华为",
+      "model": "自带线全能充智能移动电源（100W 12000）",
+      "display": "华为 自带线全能充智能移动电源（100W 12000）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/superpower-12000mah-smart-power-bank-max-100w/specs/",
+      "offers": [
+        {
+          "sku": "huawei-superpower-12000mah-smart-power-bank-max-100w",
+          "title": "自带线全能充智能移动电源（100W 12000）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/superpower-12000mah-smart-power-bank-max-100w/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|自带线全能充智能移动电源（100w20000）",
+      "brand": "华为",
+      "model": "自带线全能充智能移动电源（100W 20000）",
+      "display": "华为 自带线全能充智能移动电源（100W 20000）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/superpower-20000mah-smart-power-bank-max-100w/specs/",
+      "offers": [
+        {
+          "sku": "huawei-superpower-20000mah-smart-power-bank-max-100w",
+          "title": "自带线全能充智能移动电源（100W 20000）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/superpower-20000mah-smart-power-bank-max-100w/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|全能充磁吸移动电源",
+      "brand": "华为",
+      "model": "全能充磁吸移动电源",
+      "display": "华为 全能充磁吸移动电源",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/superpower-magnetic-power-bank/specs/",
+      "offers": [
+        {
+          "sku": "huawei-superpower-magnetic-power-bank",
+          "title": "全能充磁吸移动电源",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/superpower-magnetic-power-bank/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|f",
+      "brand": "华为",
+      "model": "F",
+      "display": "华为 F",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/toner-cartridge-f1500-for-pixlab-x1/specs/",
+      "offers": [
+        {
+          "sku": "huawei-toner-cartridge-f1500-for-pixlab-x1",
+          "title": "HUAWEI F",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/toner-cartridge-f1500-for-pixlab-x1/specs/"
+        },
+        {
+          "sku": "huawei-toner-cartridge-f1500bz-for-pixlab-b5",
+          "title": "HUAWEI F",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/business/printers/toner-cartridge-f1500bz-for-pixlab-b5/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|三脚架自拍杆（智能控制版）",
+      "brand": "华为",
+      "model": "三脚架自拍杆（智能控制版）",
+      "display": "华为 三脚架自拍杆（智能控制版）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/tripod-selfie-stick-smart-control/specs/",
+      "offers": [
+        {
+          "sku": "huawei-tripod-selfie-stick-smart-control",
+          "title": "三脚架自拍杆（智能控制版）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/tripod-selfie-stick-smart-control/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|家庭存储断电保护电源",
+      "brand": "华为",
+      "model": "家庭存储断电保护电源",
+      "display": "华为 家庭存储断电保护电源",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/uninterruptible-power-supply-for-memo-space/specs/",
+      "offers": [
+        {
+          "sku": "huawei-uninterruptible-power-supply-for-memo-space",
+          "title": "家庭存储断电保护电源",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/uninterruptible-power-supply-for-memo-space/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|臻彩墨水",
+      "brand": "华为",
+      "model": "臻彩墨水",
+      "display": "华为 臻彩墨水",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/vivid-ink/specs/",
+      "offers": [
+        {
+          "sku": "huawei-vivid-ink",
+          "title": "臻彩墨水",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/vivid-ink/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|watch无线超级快充底座（第二代）",
+      "brand": "华为",
+      "model": "WATCH 无线超级快充底座（第二代）",
+      "display": "华为 WATCH 无线超级快充底座（第二代）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/watch-wireless-supercharger-2nd-generation/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-wireless-supercharger-2nd-generation",
+          "title": "HUAWEI WATCH 无线超级快充底座（第二代）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/watch-wireless-supercharger-2nd-generation/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|无线键盘",
+      "brand": "华为",
+      "model": "无线键盘",
+      "display": "华为 无线键盘",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/wireless-keyboard/specs/",
+      "offers": [
+        {
+          "sku": "huawei-wireless-keyboard",
+          "title": "无线键盘",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/wireless-keyboard/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|无线鼠标（第二代）",
+      "brand": "华为",
+      "model": "无线鼠标（第二代）",
+      "display": "华为 无线鼠标（第二代）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/wireless-mouse-2nd-generation/specs/",
+      "offers": [
+        {
+          "sku": "huawei-wireless-mouse-2nd-generation",
+          "title": "无线鼠标（第二代）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/wireless-mouse-2nd-generation/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|无线鼠标3",
+      "brand": "华为",
+      "model": "无线鼠标 3",
+      "display": "华为 无线鼠标 3",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/wireless-mouse-3/specs/",
+      "offers": [
+        {
+          "sku": "huawei-wireless-mouse-3",
+          "title": "无线鼠标 3",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/wireless-mouse-3/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|无线鼠标星闪版",
+      "brand": "华为",
+      "model": "无线鼠标 星闪版",
+      "display": "华为 无线鼠标 星闪版",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/wireless-mouse-nearlink/specs/",
+      "offers": [
+        {
+          "sku": "huawei-wireless-mouse-nearlink",
+          "title": "无线鼠标 星闪版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/wireless-mouse-nearlink/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|无线鼠标slim标准版",
+      "brand": "华为",
+      "model": "无线鼠标 Slim 标准版",
+      "display": "华为 无线鼠标 Slim 标准版",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/wireless-mouse-slim-standard-edition/specs/",
+      "offers": [
+        {
+          "sku": "huawei-wireless-mouse-slim-standard-edition",
+          "title": "无线鼠标 Slim 标准版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/wireless-mouse-slim-standard-edition/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|无线鼠标slim素皮版",
+      "brand": "华为",
+      "model": "无线鼠标 Slim 素皮版",
+      "display": "华为 无线鼠标 Slim 素皮版",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/wireless-mouse-slim-vegan-leather/specs/",
+      "offers": [
+        {
+          "sku": "huawei-wireless-mouse-slim-vegan-leather",
+          "title": "无线鼠标 Slim 素皮版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/wireless-mouse-slim-vegan-leather/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|无线鼠标slim优享版",
+      "brand": "华为",
+      "model": "无线鼠标 Slim 优享版",
+      "display": "华为 无线鼠标 Slim 优享版",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/wireless-mouse-slim-youxiangban/specs/",
+      "offers": [
+        {
+          "sku": "huawei-wireless-mouse-slim-youxiangban",
+          "title": "无线鼠标 Slim 优享版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/wireless-mouse-slim-youxiangban/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|无线鼠标slim专业版",
+      "brand": "华为",
+      "model": "无线鼠标 Slim 专业版",
+      "display": "华为 无线鼠标 Slim 专业版",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/wireless-mouse-slim-zhuanyeban/specs/",
+      "offers": [
+        {
+          "sku": "huawei-wireless-mouse-slim-zhuanyeban",
+          "title": "无线鼠标 Slim 专业版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/wireless-mouse-slim-zhuanyeban/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|无线鼠标优享版",
+      "brand": "华为",
+      "model": "无线鼠标 优享版",
+      "display": "华为 无线鼠标 优享版",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/wireless-mouse-youxiangban/specs/",
+      "offers": [
+        {
+          "sku": "huawei-wireless-mouse-youxiangban",
+          "title": "无线鼠标 优享版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/wireless-mouse-youxiangban/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|无线鼠标",
+      "brand": "华为",
+      "model": "无线鼠标",
+      "display": "华为 无线鼠标",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/wireless-mouse/specs/",
+      "offers": [
+        {
+          "sku": "huawei-wireless-mouse",
+          "title": "HUAWEI 无线鼠标",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/wireless-mouse/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|星跃鼠标gt（竞技版）",
+      "brand": "华为",
+      "model": "星跃鼠标 GT（竞技版）",
+      "display": "华为 星跃鼠标 GT（竞技版）",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/xingyue-mouse-gt-gaming/specs/",
+      "offers": [
+        {
+          "sku": "huawei-xingyue-mouse-gt-gaming",
+          "title": "星跃鼠标 GT（竞技版）",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/xingyue-mouse-gt-gaming/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|星跃鼠标gt",
+      "brand": "华为",
+      "model": "星跃鼠标 GT",
+      "display": "华为 星跃鼠标 GT",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/xingyue-mouse-gt/specs/",
+      "offers": [
+        {
+          "sku": "huawei-xingyue-mouse-gt",
+          "title": "星跃鼠标 GT",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/xingyue-mouse-gt/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|星跃随行键盘",
+      "brand": "华为",
+      "model": "星跃随行键盘",
+      "display": "华为 星跃随行键盘",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/xingyue-portable-keyboard/specs/",
+      "offers": [
+        {
+          "sku": "huawei-xingyue-portable-keyboard",
+          "title": "星跃随行键盘",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/xingyue-portable-keyboard/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|睿影z10模块相机",
+      "brand": "华为",
+      "model": "睿影 Z10 模块相机",
+      "display": "华为 睿影 Z10 模块相机",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/accessories/xmage-z10-modular-camera/specs/",
+      "offers": [
+        {
+          "sku": "huawei-xmage-z10-modular-camera",
+          "title": "睿影 Z10 模块相机",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/accessories/xmage-z10-modular-camera/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|ai眼镜",
+      "brand": "华为",
+      "model": "AI 眼镜",
+      "display": "华为 AI 眼镜",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/audio/ai-glasses/specs/",
+      "offers": [
+        {
+          "sku": "huawei-ai-glasses",
+          "title": "AI 眼镜",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/audio/ai-glasses/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智能眼镜2",
+      "brand": "华为",
+      "model": "智能眼镜 2",
+      "display": "华为 智能眼镜 2",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/audio/huawei-eyewear-2/specs/",
+      "offers": [
+        {
+          "sku": "huawei-huawei-eyewear-2",
+          "title": "智能眼镜 2",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/audio/huawei-eyewear-2/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|displayb3",
+      "brand": "华为",
+      "model": "Display B3",
+      "display": "华为 Display B3",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/business/monitors/b3-241h/specs/",
+      "offers": [
+        {
+          "sku": "huawei-b3-241h",
+          "title": "HUAWEI Display B3",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/business/monitors/b3-241h/specs/"
+        },
+        {
+          "sku": "huawei-b3-242h",
+          "title": "HUAWEI Display B3",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/business/monitors/b3-242h/specs/"
+        },
+        {
+          "sku": "huawei-b3-243h",
+          "title": "HUAWEI Display B3",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/business/monitors/b3-243h/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智慧屏b3",
+      "brand": "华为",
+      "model": "智慧屏 B3",
+      "display": "华为 智慧屏 B3",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/business/visions/b3/specs/",
+      "offers": [
+        {
+          "sku": "huawei-b3",
+          "title": "智慧屏 B3",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/business/visions/b3/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智慧屏b5",
+      "brand": "华为",
+      "model": "智慧屏 B5",
+      "display": "华为 智慧屏 B5",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/business/visions/b5/specs/",
+      "offers": [
+        {
+          "sku": "huawei-b5",
+          "title": "智慧屏 B5",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/business/visions/b5/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|smartmovement",
+      "brand": "华为",
+      "model": "Smart Movement",
+      "display": "华为 Smart Movement",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/business/wearables/smart-movement/specs/",
+      "offers": [
+        {
+          "sku": "huawei-smart-movement",
+          "title": "HUAWEI Smart Movement",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/business/wearables/smart-movement/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matebook14",
+      "brand": "华为",
+      "model": "MateBook 14",
+      "display": "华为 MateBook 14",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/harmonyos-computer/matebook-14-harmonyos-version/specs/",
+      "offers": [
+        {
+          "sku": "huawei-matebook-14-harmonyos-version",
+          "title": "HUAWEI MateBook 14",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/harmonyos-computer/matebook-14-harmonyos-version/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matebookfold非凡大师",
+      "brand": "华为",
+      "model": "MateBook Fold 非凡大师",
+      "display": "华为 MateBook Fold 非凡大师",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/harmonyos-computer/matebook-fold-ultimate-design/specs/",
+      "offers": [
+        {
+          "sku": "huawei-matebook-fold-ultimate-design",
+          "title": "HUAWEI MateBook Fold 非凡大师",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/harmonyos-computer/matebook-fold-ultimate-design/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matebookpros",
+      "brand": "华为",
+      "model": "MateBook Pro S",
+      "display": "华为 MateBook Pro S",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/harmonyos-computer/matebook-pro-s/specs/",
+      "offers": [
+        {
+          "sku": "huawei-matebook-pro-s",
+          "title": "HUAWEI MateBook Pro S",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/harmonyos-computer/matebook-pro-s/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matebookpro",
+      "brand": "华为",
+      "model": "MateBook Pro",
+      "display": "华为 MateBook Pro",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/harmonyos-computer/matebook-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-matebook-pro",
+          "title": "HUAWEI MateBook Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/harmonyos-computer/matebook-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|freearc耳挂耳机",
+      "brand": "华为",
+      "model": "FreeArc 耳挂耳机",
+      "display": "华为 FreeArc 耳挂耳机",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/headphones/freearc/specs/",
+      "offers": [
+        {
+          "sku": "huawei-freearc",
+          "title": "HUAWEI FreeArc 耳挂耳机",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/headphones/freearc/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|freebudsneo",
+      "brand": "华为",
+      "model": "FreeBuds Neo",
+      "display": "华为 FreeBuds Neo",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/headphones/freebuds-neo/specs/",
+      "offers": [
+        {
+          "sku": "huawei-freebuds-neo",
+          "title": "HUAWEI FreeBuds Neo",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/headphones/freebuds-neo/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|freebudspro5",
+      "brand": "华为",
+      "model": "FreeBuds Pro 5",
+      "display": "华为 FreeBuds Pro 5",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/headphones/freebuds-pro-5/specs/",
+      "offers": [
+        {
+          "sku": "huawei-freebuds-pro-5",
+          "title": "HUAWEI FreeBuds Pro 5",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/headphones/freebuds-pro-5/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|freebudsse2",
+      "brand": "华为",
+      "model": "FreeBuds SE 2",
+      "display": "华为 FreeBuds SE 2",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/headphones/freebuds-se-2/specs/",
+      "offers": [
+        {
+          "sku": "huawei-freebuds-se-2",
+          "title": "HUAWEI FreeBuds SE 2",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/headphones/freebuds-se-2/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|freebudsse3",
+      "brand": "华为",
+      "model": "FreeBuds SE 3",
+      "display": "华为 FreeBuds SE 3",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/headphones/freebuds-se-3/specs/",
+      "offers": [
+        {
+          "sku": "huawei-freebuds-se-3",
+          "title": "HUAWEI FreeBuds SE 3",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/headphones/freebuds-se-3/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|freebudsse4anc",
+      "brand": "华为",
+      "model": "FreeBuds SE 4 ANC",
+      "display": "华为 FreeBuds SE 4 ANC",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/headphones/freebuds-se-4-anc/specs/",
+      "offers": [
+        {
+          "sku": "huawei-freebuds-se-4-anc",
+          "title": "HUAWEI FreeBuds SE 4 ANC",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/headphones/freebuds-se-4-anc/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|freebuds6",
+      "brand": "华为",
+      "model": "FreeBuds 6",
+      "display": "华为 FreeBuds 6",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/headphones/freebuds6/specs/",
+      "offers": [
+        {
+          "sku": "huawei-freebuds6",
+          "title": "HUAWEI FreeBuds 6",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/headphones/freebuds6/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|freebuds6i",
+      "brand": "华为",
+      "model": "FreeBuds 6i",
+      "display": "华为 FreeBuds 6i",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/headphones/freebuds6i/specs/",
+      "offers": [
+        {
+          "sku": "huawei-freebuds6i",
+          "title": "HUAWEI FreeBuds 6i",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/headphones/freebuds6i/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|freebuds7",
+      "brand": "华为",
+      "model": "FreeBuds 7",
+      "display": "华为 FreeBuds 7",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/headphones/freebuds7/specs/",
+      "offers": [
+        {
+          "sku": "huawei-freebuds7",
+          "title": "HUAWEI FreeBuds 7",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/headphones/freebuds7/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|freebuds7i",
+      "brand": "华为",
+      "model": "FreeBuds 7i",
+      "display": "华为 FreeBuds 7i",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/headphones/freebuds7i/specs/",
+      "offers": [
+        {
+          "sku": "huawei-freebuds7i",
+          "title": "HUAWEI FreeBuds 7i",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/headphones/freebuds7i/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|freeclip耳夹耳机",
+      "brand": "华为",
+      "model": "FreeClip 耳夹耳机",
+      "display": "华为 FreeClip 耳夹耳机",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/headphones/freeclip/specs/",
+      "offers": [
+        {
+          "sku": "huawei-freeclip",
+          "title": "HUAWEI FreeClip 耳夹耳机",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/headphones/freeclip/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|freeclip2典藏版耳夹耳机",
+      "brand": "华为",
+      "model": "FreeClip 2 典藏版 耳夹耳机",
+      "display": "华为 FreeClip 2 典藏版 耳夹耳机",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/headphones/freeclip2-diancangban/specs/",
+      "offers": [
+        {
+          "sku": "huawei-freeclip2-diancangban",
+          "title": "HUAWEI FreeClip 2 典藏版 耳夹耳机",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/headphones/freeclip2-diancangban/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|freeclip2耳夹耳机",
+      "brand": "华为",
+      "model": "FreeClip 2 耳夹耳机",
+      "display": "华为 FreeClip 2 耳夹耳机",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/headphones/freeclip2/specs/",
+      "offers": [
+        {
+          "sku": "huawei-freeclip2",
+          "title": "HUAWEI FreeClip 2 耳夹耳机",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/headphones/freeclip2/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matebook14酷睿ultra",
+      "brand": "华为",
+      "model": "MateBook 14 酷睿 Ultra",
+      "display": "华为 MateBook 14 酷睿 Ultra",
+      "category": "laptop",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/laptops/matebook-14-2024/specs/",
+      "offers": [
+        {
+          "sku": "huawei-matebook-14-2024",
+          "title": "HUAWEI MateBook 14 酷睿 Ultra",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/laptops/matebook-14-2024/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matebookd14202413代酷睿版",
+      "brand": "华为",
+      "model": "MateBook D 14 2024 13 代酷睿版",
+      "display": "华为 MateBook D 14 2024 13 代酷睿版",
+      "category": "laptop",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/laptops/matebook-d-14-2024-13th-gen-core/specs/",
+      "offers": [
+        {
+          "sku": "huawei-matebook-d-14-2024-13th-gen-core",
+          "title": "HUAWEI MateBook D 14 2024 13 代酷睿版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/laptops/matebook-d-14-2024-13th-gen-core/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matebookd162024",
+      "brand": "华为",
+      "model": "MateBook D 16 2024",
+      "display": "华为 MateBook D 16 2024",
+      "category": "laptop",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/laptops/matebook-d-16-2024/specs/",
+      "offers": [
+        {
+          "sku": "huawei-matebook-d-16-2024",
+          "title": "HUAWEI MateBook D 16 2024",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/laptops/matebook-d-16-2024/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matebookd16se版2024",
+      "brand": "华为",
+      "model": "MateBook D 16 SE 版 2024",
+      "display": "华为 MateBook D 16 SE 版 2024",
+      "category": "laptop",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/laptops/matebook-d-16-se-2024/specs/",
+      "offers": [
+        {
+          "sku": "huawei-matebook-d-16-se-2024",
+          "title": "HUAWEI MateBook D 16 SE 版 2024",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/laptops/matebook-d-16-se-2024/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matebookgt14",
+      "brand": "华为",
+      "model": "MateBook GT 14",
+      "display": "华为 MateBook GT 14",
+      "category": "laptop",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/laptops/matebook-gt-14/specs/",
+      "offers": [
+        {
+          "sku": "huawei-matebook-gt-14",
+          "title": "HUAWEI MateBook GT 14",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/laptops/matebook-gt-14/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matebookxpro酷睿ultra微绒典藏版",
+      "brand": "华为",
+      "model": "MateBook X Pro 酷睿 Ultra 微绒典藏版",
+      "display": "华为 MateBook X Pro 酷睿 Ultra 微绒典藏版",
+      "category": "laptop",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/laptops/matebook-x-pro-ultra-premium-edition/specs/",
+      "offers": [
+        {
+          "sku": "huawei-matebook-x-pro-ultra-premium-edition",
+          "title": "HUAWEI MateBook X Pro 酷睿 Ultra 微绒典藏版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/laptops/matebook-x-pro-ultra-premium-edition/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mateviewgt27英寸",
+      "brand": "华为",
+      "model": "MateView GT 27 英寸",
+      "display": "华为 MateView GT 27 英寸",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/monitors/mateview-gt-2026/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mateview-gt-2026",
+          "title": "HUAWEI MateView GT 27 英寸",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/monitors/mateview-gt-2026/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mateviewgt34英寸标准版",
+      "brand": "华为",
+      "model": "MateView GT 34 英寸 标准版",
+      "display": "华为 MateView GT 34 英寸 标准版",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/monitors/mateview-gt-se/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mateview-gt-se",
+          "title": "HUAWEI MateView GT 34 英寸 标准版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/monitors/mateview-gt-se/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mateviewgt34英寸sound版",
+      "brand": "华为",
+      "model": "MateView GT 34 英寸 Sound版",
+      "display": "华为 MateView GT 34 英寸 Sound版",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/monitors/mateview-gt/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mateview-gt",
+          "title": "HUAWEI MateView GT 34 英寸 Sound版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/monitors/mateview-gt/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mateviewse27\"fhd",
+      "brand": "华为",
+      "model": "MateView SE 27\" FHD",
+      "display": "华为 MateView SE 27\" FHD",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/monitors/mateview-se-27inch-fhd/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mateview-se-27inch-fhd",
+          "title": "HUAWEI MateView SE 27\" FHD",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/monitors/mateview-se-27inch-fhd/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mateviewse27\"qhd",
+      "brand": "华为",
+      "model": "MateView SE 27\" QHD",
+      "display": "华为 MateView SE 27\" QHD",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/monitors/mateview-se-27inch-qhd/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mateview-se-27inch-qhd",
+          "title": "HUAWEI MateView SE 27\" QHD",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/monitors/mateview-se-27inch-qhd/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mateviewse标准支架版",
+      "brand": "华为",
+      "model": "MateView SE 标准支架版",
+      "display": "华为 MateView SE 标准支架版",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/monitors/mateview-se-standard-stand/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mateview-se-standard-stand",
+          "title": "HUAWEI MateView SE 标准支架版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/monitors/mateview-se-standard-stand/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mateviewse旋转升降支架版",
+      "brand": "华为",
+      "model": "MateView SE 旋转升降支架版",
+      "display": "华为 MateView SE 旋转升降支架版",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/monitors/mateview-se/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mateview-se",
+          "title": "HUAWEI MateView SE 旋转升降支架版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/monitors/mateview-se/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|畅享70s",
+      "brand": "华为",
+      "model": "畅享 70S",
+      "display": "华为 畅享 70S",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/changxiang-70s/specs/",
+      "offers": [
+        {
+          "sku": "huawei-changxiang-70s",
+          "title": "畅享 70S",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/changxiang-70s/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|畅享70x尊享版",
+      "brand": "华为",
+      "model": "畅享 70X 尊享版",
+      "display": "华为 畅享 70X 尊享版",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/changxiang-70x-zunxiangban/specs/",
+      "offers": [
+        {
+          "sku": "huawei-changxiang-70x-zunxiangban",
+          "title": "畅享 70X 尊享版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/changxiang-70x-zunxiangban/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|畅享70x",
+      "brand": "华为",
+      "model": "畅享 70X",
+      "display": "华为 畅享 70X",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/changxiang-70x/specs/",
+      "offers": [
+        {
+          "sku": "huawei-changxiang-70x",
+          "title": "畅享 70X",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/changxiang-70x/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|畅享80",
+      "brand": "华为",
+      "model": "畅享 80",
+      "display": "华为 畅享 80",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/changxiang-80/specs/",
+      "offers": [
+        {
+          "sku": "huawei-changxiang-80",
+          "title": "畅享 80",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/changxiang-80/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|畅享90plus",
+      "brand": "华为",
+      "model": "畅享 90 Plus",
+      "display": "华为 畅享 90 Plus",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/changxiang-90-plus/specs/",
+      "offers": [
+        {
+          "sku": "huawei-changxiang-90-plus",
+          "title": "畅享 90 Plus",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/changxiang-90-plus/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|畅享90promax",
+      "brand": "华为",
+      "model": "畅享 90 Pro Max",
+      "display": "华为 畅享 90 Pro Max",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/changxiang-90-pro-max/specs/",
+      "offers": [
+        {
+          "sku": "huawei-changxiang-90-pro-max",
+          "title": "畅享 90 Pro Max",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/changxiang-90-pro-max/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|畅享90",
+      "brand": "华为",
+      "model": "畅享 90",
+      "display": "华为 畅享 90",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/changxiang-90/specs/",
+      "offers": [
+        {
+          "sku": "huawei-changxiang-90",
+          "title": "畅享 90",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/changxiang-90/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|畅享90mplus",
+      "brand": "华为",
+      "model": "畅享 90m Plus",
+      "display": "华为 畅享 90m Plus",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/changxiang-90m-plus/specs/",
+      "offers": [
+        {
+          "sku": "huawei-changxiang-90m-plus",
+          "title": "畅享 90m Plus",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/changxiang-90m-plus/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matex6",
+      "brand": "华为",
+      "model": "Mate X6",
+      "display": "华为 Mate X6",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/mate-x6/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate-x6",
+          "title": "HUAWEI Mate X6",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/mate-x6/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matex7",
+      "brand": "华为",
+      "model": "Mate X7",
+      "display": "华为 Mate X7",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/mate-x7/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate-x7",
+          "title": "HUAWEI Mate X7",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/mate-x7/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matext2非凡大师",
+      "brand": "华为",
+      "model": "Mate XT 2 非凡大师",
+      "display": "华为 Mate XT 2 非凡大师",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/mate-xt-2-ultimate-design/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate-xt-2-ultimate-design",
+          "title": "HUAWEI Mate XT 2 非凡大师",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/mate-xt-2-ultimate-design/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matext非凡大师",
+      "brand": "华为",
+      "model": "Mate XT 非凡大师",
+      "display": "华为 Mate XT 非凡大师",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/mate-xt-ultimate-design/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate-xt-ultimate-design",
+          "title": "HUAWEI Mate XT 非凡大师",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/mate-xt-ultimate-design/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matexts非凡大师",
+      "brand": "华为",
+      "model": "Mate XTs 非凡大师",
+      "display": "华为 Mate XTs 非凡大师",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/mate-xts-ultimate-design/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate-xts-ultimate-design",
+          "title": "HUAWEI Mate XTs 非凡大师",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/mate-xts-ultimate-design/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mate70air",
+      "brand": "华为",
+      "model": "Mate 70 Air",
+      "display": "华为 Mate 70 Air",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/mate70-air/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate70-air",
+          "title": "HUAWEI Mate 70 Air",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/mate70-air/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mate70pro+",
+      "brand": "华为",
+      "model": "Mate 70 Pro+",
+      "display": "华为 Mate 70 Pro+",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/mate70-pro-plus/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate70-pro-plus",
+          "title": "HUAWEI Mate 70 Pro+",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/mate70-pro-plus/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mate70pro优享版",
+      "brand": "华为",
+      "model": "Mate 70 Pro 优享版",
+      "display": "华为 Mate 70 Pro 优享版",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/mate70-pro-youxiangban/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate70-pro-youxiangban",
+          "title": "HUAWEI Mate 70 Pro 优享版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/mate70-pro-youxiangban/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mate70pro",
+      "brand": "华为",
+      "model": "Mate 70 Pro",
+      "display": "华为 Mate 70 Pro",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/mate70-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate70-pro",
+          "title": "HUAWEI Mate 70 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/mate70-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mate70rs非凡大师",
+      "brand": "华为",
+      "model": "Mate 70 RS 非凡大师",
+      "display": "华为 Mate 70 RS 非凡大师",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/mate70-rs-ultimate-design/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate70-rs-ultimate-design",
+          "title": "HUAWEI Mate 70 RS 非凡大师",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/mate70-rs-ultimate-design/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mate70",
+      "brand": "华为",
+      "model": "Mate 70",
+      "display": "华为 Mate 70",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/mate70/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate70",
+          "title": "HUAWEI Mate 70",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/mate70/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mate80promax风驰版",
+      "brand": "华为",
+      "model": "Mate 80 Pro Max 风驰版",
+      "display": "华为 Mate 80 Pro Max 风驰版",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/mate80-pro-max-fengchiban/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate80-pro-max-fengchiban",
+          "title": "HUAWEI Mate 80 Pro Max 风驰版参数",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/mate80-pro-max-fengchiban/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mate80promax",
+      "brand": "华为",
+      "model": "Mate 80 Pro Max",
+      "display": "华为 Mate 80 Pro Max",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/mate80-pro-max/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate80-pro-max",
+          "title": "HUAWEI Mate 80 Pro Max 参数",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/mate80-pro-max/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mate80pro",
+      "brand": "华为",
+      "model": "Mate 80 Pro",
+      "display": "华为 Mate 80 Pro",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/mate80-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate80-pro",
+          "title": "HUAWEI Mate 80 Pro 参数",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/mate80-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mate80rs非凡大师",
+      "brand": "华为",
+      "model": "Mate 80 RS 非凡大师",
+      "display": "华为 Mate 80 RS 非凡大师",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/mate80-rs-ultimate-design/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate80-rs-ultimate-design",
+          "title": "HUAWEI Mate 80 RS 非凡大师参数",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/mate80-rs-ultimate-design/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mate80",
+      "brand": "华为",
+      "model": "Mate 80",
+      "display": "华为 Mate 80",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/mate80/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate80",
+          "title": "HUAWEI Mate 80 参数",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/mate80/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mate90promax",
+      "brand": "华为",
+      "model": "Mate 90 Pro Max",
+      "display": "华为 Mate 90 Pro Max",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/mate90-pro-max/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate90-pro-max",
+          "title": "HUAWEI Mate 90 Pro Max",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/mate90-pro-max/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mate90pro",
+      "brand": "华为",
+      "model": "Mate 90 Pro",
+      "display": "华为 Mate 90 Pro",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/mate90-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate90-pro",
+          "title": "HUAWEI Mate 90 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/mate90-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mate90rs非凡大师",
+      "brand": "华为",
+      "model": "Mate 90 RS 非凡大师",
+      "display": "华为 Mate 90 RS 非凡大师",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/mate90-rs-ultimate-design/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate90-rs-ultimate-design",
+          "title": "HUAWEI Mate 90 RS 非凡大师",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/mate90-rs-ultimate-design/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|mate90",
+      "brand": "华为",
+      "model": "Mate 90",
+      "display": "华为 Mate 90",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/mate90/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate90",
+          "title": "HUAWEI Mate 90",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/mate90/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|nova14活力版",
+      "brand": "华为",
+      "model": "nova 14 活力版",
+      "display": "华为 nova 14 活力版",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/nova14-huoliban/specs/",
+      "offers": [
+        {
+          "sku": "huawei-nova14-huoliban",
+          "title": "HUAWEI nova 14 活力版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/nova14-huoliban/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|nova14pro",
+      "brand": "华为",
+      "model": "nova 14 Pro",
+      "display": "华为 nova 14 Pro",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/nova14-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-nova14-pro",
+          "title": "HUAWEI nova 14 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/nova14-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|nova14ultra",
+      "brand": "华为",
+      "model": "nova 14 Ultra",
+      "display": "华为 nova 14 Ultra",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/nova14-ultra/specs/",
+      "offers": [
+        {
+          "sku": "huawei-nova14-ultra",
+          "title": "HUAWEI nova 14 Ultra",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/nova14-ultra/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|nova14",
+      "brand": "华为",
+      "model": "nova 14",
+      "display": "华为 nova 14",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/nova14/specs/",
+      "offers": [
+        {
+          "sku": "huawei-nova14",
+          "title": "HUAWEI nova 14",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/nova14/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|nova15pro",
+      "brand": "华为",
+      "model": "nova 15 Pro",
+      "display": "华为 nova 15 Pro",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/nova15-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-nova15-pro",
+          "title": "HUAWEI nova 15 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/nova15-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|nova15ultra",
+      "brand": "华为",
+      "model": "nova 15 Ultra",
+      "display": "华为 nova 15 Ultra",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/nova15-ultra/specs/",
+      "offers": [
+        {
+          "sku": "huawei-nova15-ultra",
+          "title": "HUAWEI nova 15 Ultra",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/nova15-ultra/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|nova15",
+      "brand": "华为",
+      "model": "nova 15",
+      "display": "华为 nova 15",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/nova15/specs/",
+      "offers": [
+        {
+          "sku": "huawei-nova15",
+          "title": "HUAWEI nova 15",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/nova15/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|nova16pro",
+      "brand": "华为",
+      "model": "nova 16 Pro",
+      "display": "华为 nova 16 Pro",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/nova16-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-nova16-pro",
+          "title": "HUAWEI nova 16 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/nova16-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|nova16se",
+      "brand": "华为",
+      "model": "nova 16 SE",
+      "display": "华为 nova 16 SE",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/nova16-se/specs/",
+      "offers": [
+        {
+          "sku": "huawei-nova16-se",
+          "title": "HUAWEI nova 16 SE",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/nova16-se/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|nova16ultra",
+      "brand": "华为",
+      "model": "nova 16 Ultra",
+      "display": "华为 nova 16 Ultra",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/nova16-ultra/specs/",
+      "offers": [
+        {
+          "sku": "huawei-nova16-ultra",
+          "title": "HUAWEI nova 16 Ultra",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/nova16-ultra/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|nova16z",
+      "brand": "华为",
+      "model": "nova 16z",
+      "display": "华为 nova 16z",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/nova16-z/specs/",
+      "offers": [
+        {
+          "sku": "huawei-nova16-z",
+          "title": "HUAWEI nova 16z",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/nova16-z/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|nova16",
+      "brand": "华为",
+      "model": "nova 16",
+      "display": "华为 nova 16",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/nova16/specs/",
+      "offers": [
+        {
+          "sku": "huawei-nova16",
+          "title": "HUAWEI nova 16",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/nova16/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|pocket2优享版",
+      "brand": "华为",
+      "model": "Pocket 2 优享版",
+      "display": "华为 Pocket 2 优享版",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/pocket-2-youxiangban/specs/",
+      "offers": [
+        {
+          "sku": "huawei-pocket-2-youxiangban",
+          "title": "HUAWEI Pocket 2 优享版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/pocket-2-youxiangban/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|puraxmax",
+      "brand": "华为",
+      "model": "Pura X Max",
+      "display": "华为 Pura X Max",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/pura-x-max/specs/",
+      "offers": [
+        {
+          "sku": "huawei-pura-x-max",
+          "title": "HUAWEI Pura X Max",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/pura-x-max/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|puraxview",
+      "brand": "华为",
+      "model": "Pura X View",
+      "display": "华为 Pura X View",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/pura-x-view/specs/",
+      "offers": [
+        {
+          "sku": "huawei-pura-x-view",
+          "title": "HUAWEI Pura X View",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/pura-x-view/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|purax",
+      "brand": "华为",
+      "model": "Pura X",
+      "display": "华为 Pura X",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/pura-x/specs/",
+      "offers": [
+        {
+          "sku": "huawei-pura-x",
+          "title": "HUAWEI Pura X",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/pura-x/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|pura80pro+",
+      "brand": "华为",
+      "model": "Pura 80 Pro+",
+      "display": "华为 Pura 80 Pro+",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/pura80-pro-plus/specs/",
+      "offers": [
+        {
+          "sku": "huawei-pura80-pro-plus",
+          "title": "HUAWEI Pura 80 Pro+",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/pura80-pro-plus/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|pura80pro",
+      "brand": "华为",
+      "model": "Pura 80 Pro",
+      "display": "华为 Pura 80 Pro",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/pura80-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-pura80-pro",
+          "title": "HUAWEI Pura 80 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/pura80-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|pura80ultra",
+      "brand": "华为",
+      "model": "Pura 80 Ultra",
+      "display": "华为 Pura 80 Ultra",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/pura80-ultra/specs/",
+      "offers": [
+        {
+          "sku": "huawei-pura80-ultra",
+          "title": "HUAWEI Pura 80 Ultra",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/pura80-ultra/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|pura80",
+      "brand": "华为",
+      "model": "Pura 80",
+      "display": "华为 Pura 80",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/pura80/specs/",
+      "offers": [
+        {
+          "sku": "huawei-pura80",
+          "title": "HUAWEI Pura 80",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/pura80/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|pura90promax",
+      "brand": "华为",
+      "model": "Pura 90 Pro Max",
+      "display": "华为 Pura 90 Pro Max",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/pura90-pro-max/specs/",
+      "offers": [
+        {
+          "sku": "huawei-pura90-pro-max",
+          "title": "HUAWEI Pura 90 Pro Max",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/pura90-pro-max/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|pura90pro",
+      "brand": "华为",
+      "model": "Pura 90 Pro",
+      "display": "华为 Pura 90 Pro",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/pura90-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-pura90-pro",
+          "title": "HUAWEI Pura 90 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/pura90-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|pura90",
+      "brand": "华为",
+      "model": "Pura 90",
+      "display": "华为 Pura 90",
+      "category": "phone",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/phones/pura90/specs/",
+      "offers": [
+        {
+          "sku": "huawei-pura90",
+          "title": "HUAWEI Pura 90",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/phones/pura90/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|毕昇激光打印机x1系列",
+      "brand": "华为",
+      "model": "毕昇激光打印机 X1 系列",
+      "display": "华为 毕昇激光打印机 X1 系列",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/printers/bisheng-x1-series/specs/",
+      "offers": [
+        {
+          "sku": "huawei-bisheng-x1-series",
+          "title": "毕昇激光打印机 X1 系列",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/printers/bisheng-x1-series/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|5gcpepro2",
+      "brand": "华为",
+      "model": "5G CPE Pro 2",
+      "display": "华为 5G CPE Pro 2",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/5g-cpe-pro-2/specs/",
+      "offers": [
+        {
+          "sku": "huawei-5g-cpe-pro-2",
+          "title": "HUAWEI 5G CPE Pro 2",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/5g-cpe-pro-2/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|路由ax2pro",
+      "brand": "华为",
+      "model": "路由 AX2 Pro",
+      "display": "华为 路由 AX2 Pro",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/ax2-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-ax2-pro",
+          "title": "路由 AX2 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/ax2-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|路由ax3",
+      "brand": "华为",
+      "model": "路由 AX3",
+      "display": "华为 路由 AX3",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/ax3/specs/",
+      "offers": [
+        {
+          "sku": "huawei-ax3",
+          "title": "路由 AX3",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/ax3/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|路由ax3000",
+      "brand": "华为",
+      "model": "路由 AX3000",
+      "display": "华为 路由 AX3000",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/ax3000/specs/",
+      "offers": [
+        {
+          "sku": "huawei-ax3000",
+          "title": "路由 AX3000",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/ax3000/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|路由ax6pro",
+      "brand": "华为",
+      "model": "路由 AX6 Pro",
+      "display": "华为 路由 AX6 Pro",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/ax6-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-ax6-pro",
+          "title": "路由 AX6 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/ax6-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|路由ax6(new)",
+      "brand": "华为",
+      "model": "路由 AX6 (new)",
+      "display": "华为 路由 AX6 (new)",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/ax6/specs/",
+      "offers": [
+        {
+          "sku": "huawei-ax6",
+          "title": "路由 AX6 (new)",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/ax6/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|路由be3pro",
+      "brand": "华为",
+      "model": "路由 BE3 Pro",
+      "display": "华为 路由 BE3 Pro",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/be3-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-be3-pro",
+          "title": "路由 BE3 Pro 参数",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/be3-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|路由be3600",
+      "brand": "华为",
+      "model": "路由 BE3600",
+      "display": "华为 路由 BE3600",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/be3600/specs/",
+      "offers": [
+        {
+          "sku": "huawei-be3600",
+          "title": "路由 BE3600",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/be3600/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|路由be7pro",
+      "brand": "华为",
+      "model": "路由 BE7 Pro",
+      "display": "华为 路由 BE7 Pro",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/be7-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-be7-pro",
+          "title": "路由 BE7 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/be7-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|路由be7",
+      "brand": "华为",
+      "model": "路由 BE7",
+      "display": "华为 路由 BE7",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/be7/specs/",
+      "offers": [
+        {
+          "sku": "huawei-be7",
+          "title": "路由 BE7",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/be7/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|移动路由2",
+      "brand": "华为",
+      "model": "移动路由 2",
+      "display": "华为 移动路由 2",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/mobile-router-2/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mobile-router-2",
+          "title": "移动路由 2 参数",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/mobile-router-2/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|移动路由5",
+      "brand": "华为",
+      "model": "移动路由 5",
+      "display": "华为 移动路由 5",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/mobile-router-5/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mobile-router-5",
+          "title": "移动路由 5",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/mobile-router-5/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|移动路由pro",
+      "brand": "华为",
+      "model": "移动路由 Pro",
+      "display": "华为 移动路由 Pro",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/mobile-router-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mobile-router-pro",
+          "title": "移动路由 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/mobile-router-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|随行wifi3pro",
+      "brand": "华为",
+      "model": "随行 WiFi 3 Pro",
+      "display": "华为 随行 WiFi 3 Pro",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/mobile-wifi-3-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mobile-wifi-3-pro",
+          "title": "随行 WiFi 3 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/mobile-wifi-3-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|随行wifi5esim",
+      "brand": "华为",
+      "model": "随行 WiFi 5 eSIM",
+      "display": "华为 随行 WiFi 5 eSIM",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/mobile-wifi-5-esim/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mobile-wifi-5-esim",
+          "title": "随行 WiFi 5 eSIM",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/mobile-wifi-5-esim/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|随行wifi5",
+      "brand": "华为",
+      "model": "随行 WiFi 5",
+      "display": "华为 随行 WiFi 5",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/mobile-wifi-5/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mobile-wifi-5",
+          "title": "随行 WiFi 5",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/mobile-wifi-5/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|随行wifi6pro",
+      "brand": "华为",
+      "model": "随行 WiFi 6 Pro",
+      "display": "华为 随行 WiFi 6 Pro",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/mobile-wifi-6-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mobile-wifi-6-pro",
+          "title": "随行 WiFi 6 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/mobile-wifi-6-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|随行wifix",
+      "brand": "华为",
+      "model": "随行 WiFi X",
+      "display": "华为 随行 WiFi X",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/mobile-wifi-x/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mobile-wifi-x",
+          "title": "随行 WiFi X",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/mobile-wifi-x/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|路由q6网线版",
+      "brand": "华为",
+      "model": "路由 Q6 网线版",
+      "display": "华为 路由 Q6 网线版",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/q6-ethernet-cable/specs/",
+      "offers": [
+        {
+          "sku": "huawei-q6-ethernet-cable",
+          "title": "路由 Q6 网线版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/q6-ethernet-cable/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|路由q6",
+      "brand": "华为",
+      "model": "路由 Q6",
+      "display": "华为 路由 Q6",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/q6/specs/",
+      "offers": [
+        {
+          "sku": "huawei-q6",
+          "title": "路由 Q6",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/q6/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|凌霄子母路由q6e",
+      "brand": "华为",
+      "model": "凌霄子母路由 Q6E",
+      "display": "华为 凌霄子母路由 Q6E",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/q6e/specs/",
+      "offers": [
+        {
+          "sku": "huawei-q6e",
+          "title": "凌霄子母路由 Q6E",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/q6e/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|凌霄子母路由q7网线版",
+      "brand": "华为",
+      "model": "凌霄子母路由 Q7 网线版",
+      "display": "华为 凌霄子母路由 Q7 网线版",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/q7-ethernet-cable/specs/",
+      "offers": [
+        {
+          "sku": "huawei-q7-ethernet-cable",
+          "title": "凌霄子母路由 Q7 网线版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/q7-ethernet-cable/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|凌霄子母路由q7网线版超薄款",
+      "brand": "华为",
+      "model": "凌霄子母路由 Q7 网线版 超薄款",
+      "display": "华为 凌霄子母路由 Q7 网线版 超薄款",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/q7-thin/specs/",
+      "offers": [
+        {
+          "sku": "huawei-q7-thin",
+          "title": "凌霄子母路由 Q7 网线版 超薄款",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/q7-thin/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|凌霄子母路由q7",
+      "brand": "华为",
+      "model": "凌霄子母路由 Q7",
+      "display": "华为 凌霄子母路由 Q7",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/q7/specs/",
+      "offers": [
+        {
+          "sku": "huawei-q7",
+          "title": "凌霄子母路由 Q7",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/q7/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|路由器x1pro",
+      "brand": "华为",
+      "model": "路由器 X1 Pro",
+      "display": "华为 路由器 X1 Pro",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/x1-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-x1-pro",
+          "title": "路由器 X1 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/x1-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|路由器x1",
+      "brand": "华为",
+      "model": "路由器 X1",
+      "display": "华为 路由器 X1",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/x1/specs/",
+      "offers": [
+        {
+          "sku": "huawei-x1",
+          "title": "路由器 X1",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/x1/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|路由x3pro日照金山",
+      "brand": "华为",
+      "model": "路由 X3 Pro 日照金山",
+      "display": "华为 路由 X3 Pro 日照金山",
+      "category": "peripheral",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/routers/x3-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-x3-pro",
+          "title": "路由 X3 Pro 日照金山",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/routers/x3-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智能门锁2pro悦享版",
+      "brand": "华为",
+      "model": "智能门锁 2 Pro 悦享版",
+      "display": "华为 智能门锁 2 Pro 悦享版",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/smart-lock/smart-lock-2-pro-lite/specs/",
+      "offers": [
+        {
+          "sku": "huawei-smart-lock-2-pro-lite",
+          "title": "智能门锁 2 Pro 悦享版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/smart-lock/smart-lock-2-pro-lite/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智能门锁2pro",
+      "brand": "华为",
+      "model": "智能门锁 2 Pro",
+      "display": "华为 智能门锁 2 Pro",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/smart-lock/smart-lock-2-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-smart-lock-2-pro",
+          "title": "智能门锁 2 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/smart-lock/smart-lock-2-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智能门锁2ultra",
+      "brand": "华为",
+      "model": "智能门锁 2 Ultra",
+      "display": "华为 智能门锁 2 Ultra",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/smart-lock/smart-lock-2-ultra/specs/",
+      "offers": [
+        {
+          "sku": "huawei-smart-lock-2-ultra",
+          "title": "智能门锁 2 Ultra",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/smart-lock/smart-lock-2-ultra/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智能门锁2悦享版",
+      "brand": "华为",
+      "model": "智能门锁 2 悦享版",
+      "display": "华为 智能门锁 2 悦享版",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/smart-lock/smart-lock-2-yuexiangban/specs/",
+      "offers": [
+        {
+          "sku": "huawei-smart-lock-2-yuexiangban",
+          "title": "智能门锁 2 悦享版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/smart-lock/smart-lock-2-yuexiangban/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智能门锁2",
+      "brand": "华为",
+      "model": "智能门锁 2",
+      "display": "华为 智能门锁 2",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/smart-lock/smart-lock-2/specs/",
+      "offers": [
+        {
+          "sku": "huawei-smart-lock-2",
+          "title": "智能门锁 2",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/smart-lock/smart-lock-2/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智能门锁m2",
+      "brand": "华为",
+      "model": "智能门锁 M2",
+      "display": "华为 智能门锁 M2",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/smart-lock/smart-lock-m2/specs/",
+      "offers": [
+        {
+          "sku": "huawei-smart-lock-m2",
+          "title": "智能门锁 M2",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/smart-lock/smart-lock-m2/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智能门锁se猫眼版",
+      "brand": "华为",
+      "model": "智能门锁 SE 猫眼版",
+      "display": "华为 智能门锁 SE 猫眼版",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/smart-lock/smart-lock-se-with-camera/specs/",
+      "offers": [
+        {
+          "sku": "huawei-smart-lock-se-with-camera",
+          "title": "智能门锁 SE 猫眼版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/smart-lock/smart-lock-se-with-camera/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智能门锁se",
+      "brand": "华为",
+      "model": "智能门锁 SE",
+      "display": "华为 智能门锁 SE",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/smart-lock/smart-lock-se/specs/",
+      "offers": [
+        {
+          "sku": "huawei-smart-lock-se",
+          "title": "智能门锁 SE",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/smart-lock/smart-lock-se/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智能门锁x1",
+      "brand": "华为",
+      "model": "智能门锁 X1",
+      "display": "华为 智能门锁 X1",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/smart-lock/smart-lock-x1/specs/",
+      "offers": [
+        {
+          "sku": "huawei-smart-lock-x1",
+          "title": "智能门锁 X1",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/smart-lock/smart-lock-x1/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|soundjoy2智能音箱",
+      "brand": "华为",
+      "model": "Sound Joy 2 智能音箱",
+      "display": "华为 Sound Joy 2 智能音箱",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/speakers/sound-joy-2-ai-speaker/specs/",
+      "offers": [
+        {
+          "sku": "huawei-sound-joy-2-ai-speaker",
+          "title": "HUAWEI Sound Joy 2 智能音箱",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/speakers/sound-joy-2-ai-speaker/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|soundjoy2蓝牙音箱",
+      "brand": "华为",
+      "model": "Sound Joy 2 蓝牙音箱",
+      "display": "华为 Sound Joy 2 蓝牙音箱",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/speakers/sound-joy-2-bluetooth-speaker/specs/",
+      "offers": [
+        {
+          "sku": "huawei-sound-joy-2-bluetooth-speaker",
+          "title": "HUAWEI Sound Joy 2 蓝牙音箱",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/speakers/sound-joy-2-bluetooth-speaker/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|悦彰家庭影院",
+      "brand": "华为",
+      "model": "悦彰家庭影院",
+      "display": "华为 悦彰家庭影院",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/speakers/sound-theatre/specs/",
+      "offers": [
+        {
+          "sku": "huawei-sound-theatre",
+          "title": "悦彰家庭影院",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/speakers/sound-theatre/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|soundx鎏金剧院版",
+      "brand": "华为",
+      "model": "Sound X 鎏金剧院版",
+      "display": "华为 Sound X 鎏金剧院版",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/speakers/sound-x-gold/specs/",
+      "offers": [
+        {
+          "sku": "huawei-sound-x-gold",
+          "title": "HUAWEI Sound X 鎏金剧院版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/speakers/sound-x-gold/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|soundx4",
+      "brand": "华为",
+      "model": "Sound X4",
+      "display": "华为 Sound X4",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/speakers/sound-x4/specs/",
+      "offers": [
+        {
+          "sku": "huawei-sound-x4",
+          "title": "HUAWEI Sound X4",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/speakers/sound-x4/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|soundx5",
+      "brand": "华为",
+      "model": "Sound X5",
+      "display": "华为 Sound X5",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/speakers/sound-x5/specs/",
+      "offers": [
+        {
+          "sku": "huawei-sound-x5",
+          "title": "HUAWEI Sound X5",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/speakers/sound-x5/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|家庭存储",
+      "brand": "华为",
+      "model": "家庭存储",
+      "display": "华为 家庭存储",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/storage/memo-space/specs/",
+      "offers": [
+        {
+          "sku": "huawei-memo-space",
+          "title": "家庭存储",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/storage/memo-space/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matepad11.52026",
+      "brand": "华为",
+      "model": "MatePad 11.5 2026",
+      "display": "华为 MatePad 11.5 2026",
+      "category": "tablet",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-11-5-2026/specs/",
+      "offers": [
+        {
+          "sku": "huawei-matepad-11-5-2026",
+          "title": "HUAWEI MatePad 11.5 2026",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-11-5-2026/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matepad11.5s",
+      "brand": "华为",
+      "model": "MatePad 11.5 S",
+      "display": "华为 MatePad 11.5 S",
+      "category": "tablet",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-11-5-s-2025/specs/",
+      "offers": [
+        {
+          "sku": "huawei-matepad-11-5-s-2025",
+          "title": "HUAWEI MatePad 11.5 S",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-11-5-s-2025/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matepad11.5s灵动款",
+      "brand": "华为",
+      "model": "MatePad 11.5 S 灵动款",
+      "display": "华为 MatePad 11.5 S 灵动款",
+      "category": "tablet",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-11-5-s-dynamic-2025/specs/",
+      "offers": [
+        {
+          "sku": "huawei-matepad-11-5-s-dynamic-2025",
+          "title": "HUAWEI MatePad 11.5 S 灵动款",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-11-5-s-dynamic-2025/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matepadair",
+      "brand": "华为",
+      "model": "MatePad Air",
+      "display": "华为 MatePad Air",
+      "category": "tablet",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-air-12/specs/",
+      "offers": [
+        {
+          "sku": "huawei-matepad-air-12",
+          "title": "HUAWEI MatePad Air",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-air-12/specs/"
+        },
+        {
+          "sku": "huawei-matepad-air-2025",
+          "title": "HUAWEI MatePad Air",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-air-2025/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matepadairz",
+      "brand": "华为",
+      "model": "MatePad Air Z",
+      "display": "华为 MatePad Air Z",
+      "category": "tablet",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-air-z/specs/",
+      "offers": [
+        {
+          "sku": "huawei-matepad-air-z",
+          "title": "HUAWEI MatePad Air Z",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-air-z/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matepadedge",
+      "brand": "华为",
+      "model": "MatePad Edge",
+      "display": "华为 MatePad Edge",
+      "category": "tablet",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-edge/specs/",
+      "offers": [
+        {
+          "sku": "huawei-matepad-edge",
+          "title": "HUAWEI MatePad Edge",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-edge/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matepadmini悦读版",
+      "brand": "华为",
+      "model": "MatePad Mini 悦读版",
+      "display": "华为 MatePad Mini 悦读版",
+      "category": "tablet",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-mini-yueduban/specs/",
+      "offers": [
+        {
+          "sku": "huawei-matepad-mini-yueduban",
+          "title": "HUAWEI MatePad Mini 悦读版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-mini-yueduban/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matepadmini",
+      "brand": "华为",
+      "model": "MatePad Mini",
+      "display": "华为 MatePad Mini",
+      "category": "tablet",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-mini/specs/",
+      "offers": [
+        {
+          "sku": "huawei-matepad-mini",
+          "title": "HUAWEI MatePad Mini",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-mini/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matepadpro12英寸",
+      "brand": "华为",
+      "model": "MatePad Pro 12 英寸",
+      "display": "华为 MatePad Pro 12 英寸",
+      "category": "tablet",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-pro-12/specs/",
+      "offers": [
+        {
+          "sku": "huawei-matepad-pro-12",
+          "title": "HUAWEI MatePad Pro 12 英寸",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-pro-12/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matepadpromax",
+      "brand": "华为",
+      "model": "MatePad Pro Max",
+      "display": "华为 MatePad Pro Max",
+      "category": "tablet",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-pro-max/specs/",
+      "offers": [
+        {
+          "sku": "huawei-matepad-pro-max",
+          "title": "HUAWEI MatePad Pro Max",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-pro-max/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|matepadse",
+      "brand": "华为",
+      "model": "MatePad SE",
+      "display": "华为 MatePad SE",
+      "category": "tablet",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-se-11/specs/",
+      "offers": [
+        {
+          "sku": "huawei-matepad-se-11",
+          "title": "HUAWEI MatePad SE",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/tablets/matepad-se-11/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|vision智慧屏5pro",
+      "brand": "华为",
+      "model": "Vision智慧屏 5 Pro",
+      "display": "华为 Vision智慧屏 5 Pro",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/visions/huawei-vision/5-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-5-pro",
+          "title": "Vision智慧屏 5 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/visions/huawei-vision/5-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|vision智慧屏5se",
+      "brand": "华为",
+      "model": "Vision智慧屏 5 SE",
+      "display": "华为 Vision智慧屏 5 SE",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/visions/huawei-vision/5-se/specs/",
+      "offers": [
+        {
+          "sku": "huawei-5-se",
+          "title": "Vision智慧屏 5 SE",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/visions/huawei-vision/5-se/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|vision智慧屏5",
+      "brand": "华为",
+      "model": "Vision智慧屏 5",
+      "display": "华为 Vision智慧屏 5",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/visions/huawei-vision/5/specs/",
+      "offers": [
+        {
+          "sku": "huawei-5",
+          "title": "Vision智慧屏 5",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/visions/huawei-vision/5/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智慧屏matetv2max",
+      "brand": "华为",
+      "model": "智慧屏 MateTV 2 Max",
+      "display": "华为 智慧屏 MateTV 2 Max",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/visions/mate-tv-2-max/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate-tv-2-max",
+          "title": "智慧屏 MateTV 2 Max",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/visions/mate-tv-2-max/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智慧屏matetv2",
+      "brand": "华为",
+      "model": "智慧屏 MateTV 2",
+      "display": "华为 智慧屏 MateTV 2",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/visions/mate-tv-2/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate-tv-2",
+          "title": "智慧屏 MateTV 2",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/visions/mate-tv-2/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智慧屏matetvmax",
+      "brand": "华为",
+      "model": "智慧屏 MateTV Max",
+      "display": "华为 智慧屏 MateTV Max",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/visions/mate-tv-max/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate-tv-max",
+          "title": "智慧屏 MateTV Max",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/visions/mate-tv-max/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智慧屏matetv",
+      "brand": "华为",
+      "model": "智慧屏 MateTV",
+      "display": "华为 智慧屏 MateTV",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/visions/mate-tv/specs/",
+      "offers": [
+        {
+          "sku": "huawei-mate-tv",
+          "title": "智慧屏 MateTV",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/visions/mate-tv/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智慧屏s6pro",
+      "brand": "华为",
+      "model": "智慧屏 S6 Pro",
+      "display": "华为 智慧屏 S6 Pro",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/visions/s6-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-s6-pro",
+          "title": "智慧屏 S6 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/visions/s6-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智慧屏s6",
+      "brand": "华为",
+      "model": "智慧屏 S6",
+      "display": "华为 智慧屏 S6",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/visions/s6/specs/",
+      "offers": [
+        {
+          "sku": "huawei-s6",
+          "title": "智慧屏 S6",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/visions/s6/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智慧屏s7pro",
+      "brand": "华为",
+      "model": "智慧屏 S7 Pro",
+      "display": "华为 智慧屏 S7 Pro",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/visions/s7-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-s7-pro",
+          "title": "智慧屏 S7 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/visions/s7-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智慧屏s7rgb",
+      "brand": "华为",
+      "model": "智慧屏 S7 RGB",
+      "display": "华为 智慧屏 S7 RGB",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/visions/s7-rgb/specs/",
+      "offers": [
+        {
+          "sku": "huawei-s7-rgb",
+          "title": "智慧屏 S7 RGB",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/visions/s7-rgb/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|智慧屏s7",
+      "brand": "华为",
+      "model": "智慧屏 S7",
+      "display": "华为 智慧屏 S7",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/visions/s7/specs/",
+      "offers": [
+        {
+          "sku": "huawei-s7",
+          "title": "智慧屏 S7",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/visions/s7/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|vision智慧屏6pro",
+      "brand": "华为",
+      "model": "Vision智慧屏 6 Pro",
+      "display": "华为 Vision智慧屏 6 Pro",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/visions/vision-6-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-vision-6-pro",
+          "title": "Vision智慧屏 6 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/visions/vision-6-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|vision智慧屏6",
+      "brand": "华为",
+      "model": "Vision 智慧屏 6",
+      "display": "华为 Vision 智慧屏 6",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/visions/vision-6/specs/",
+      "offers": [
+        {
+          "sku": "huawei-vision-6",
+          "title": "Vision 智慧屏 6",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/visions/vision-6/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|vision智慧屏6sergb",
+      "brand": "华为",
+      "model": "Vision智慧屏 6 SE RGB",
+      "display": "华为 Vision智慧屏 6 SE RGB",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/visions/vision-6se-rgb/specs/",
+      "offers": [
+        {
+          "sku": "huawei-vision-6se-rgb",
+          "title": "Vision智慧屏 6 SE RGB",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/visions/vision-6se-rgb/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|vision智慧屏6se",
+      "brand": "华为",
+      "model": "Vision 智慧屏 6 SE",
+      "display": "华为 Vision 智慧屏 6 SE",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/visions/vision-6se/specs/",
+      "offers": [
+        {
+          "sku": "huawei-vision-6se",
+          "title": "Vision 智慧屏 6 SE",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/visions/vision-6se/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|手环10",
+      "brand": "华为",
+      "model": "手环 10",
+      "display": "华为 手环 10",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/band10/specs/",
+      "offers": [
+        {
+          "sku": "huawei-band10",
+          "title": "手环 10",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/band10/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|手环11pro",
+      "brand": "华为",
+      "model": "手环 11 Pro",
+      "display": "华为 手环 11 Pro",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/band11-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-band11-pro",
+          "title": "手环 11 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/band11-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|手环11",
+      "brand": "华为",
+      "model": "手环 11",
+      "display": "华为 手环 11",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/band11/specs/",
+      "offers": [
+        {
+          "sku": "huawei-band11",
+          "title": "手环 11",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/band11/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|手环6pro",
+      "brand": "华为",
+      "model": "手环 6 Pro",
+      "display": "华为 手环 6 Pro",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/band6-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-band6-pro",
+          "title": "手环 6 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/band6-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|儿童手表5活力版",
+      "brand": "华为",
+      "model": "儿童手表 5 活力版",
+      "display": "华为 儿童手表 5 活力版",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/kids-watch-5-lite/specs/",
+      "offers": [
+        {
+          "sku": "huawei-kids-watch-5-lite",
+          "title": "儿童手表 5 活力版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/kids-watch-5-lite/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|儿童手表5pro感光炫彩版",
+      "brand": "华为",
+      "model": "儿童手表 5 Pro 感光炫彩版",
+      "display": "华为 儿童手表 5 Pro 感光炫彩版",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/kids-watch-5-pro-special-edition/specs/",
+      "offers": [
+        {
+          "sku": "huawei-kids-watch-5-pro-special-edition",
+          "title": "儿童手表 5 Pro 感光炫彩版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/kids-watch-5-pro-special-edition/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|儿童手表5pro",
+      "brand": "华为",
+      "model": "儿童手表 5 Pro",
+      "display": "华为 儿童手表 5 Pro",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/kids-watch-5-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-kids-watch-5-pro",
+          "title": "儿童手表 5 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/kids-watch-5-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|儿童手表5",
+      "brand": "华为",
+      "model": "儿童手表 5",
+      "display": "华为 儿童手表 5",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/kids-watch-5/specs/",
+      "offers": [
+        {
+          "sku": "huawei-kids-watch-5",
+          "title": "儿童手表 5",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/kids-watch-5/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|儿童手表5xpro",
+      "brand": "华为",
+      "model": "儿童手表 5X Pro",
+      "display": "华为 儿童手表 5X Pro",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/kids-watch-5x-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-kids-watch-5x-pro",
+          "title": "儿童手表 5X Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/kids-watch-5x-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|儿童手表5x",
+      "brand": "华为",
+      "model": "儿童手表 5X",
+      "display": "华为 儿童手表 5X",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/kids-watch-5x/specs/",
+      "offers": [
+        {
+          "sku": "huawei-kids-watch-5x",
+          "title": "儿童手表 5X",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/kids-watch-5x/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|通话手环b7",
+      "brand": "华为",
+      "model": "通话手环 B7",
+      "display": "华为 通话手环 B7",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/talkband-b7/specs/",
+      "offers": [
+        {
+          "sku": "huawei-talkband-b7",
+          "title": "通话手环 B7",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/talkband-b7/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|visionglass",
+      "brand": "华为",
+      "model": "Vision Glass",
+      "display": "华为 Vision Glass",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/vision-glass/specs/",
+      "offers": [
+        {
+          "sku": "huawei-vision-glass",
+          "title": "HUAWEI Vision Glass",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/vision-glass/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|watch5",
+      "brand": "华为",
+      "model": "WATCH 5",
+      "display": "华为 WATCH 5",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-5/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-5",
+          "title": "HUAWEI WATCH 5",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-5/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|watch6pro",
+      "brand": "华为",
+      "model": "WATCH 6 Pro",
+      "display": "华为 WATCH 6 Pro",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-6-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-6-pro",
+          "title": "HUAWEI WATCH 6 Pro 参数",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-6-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|watch6",
+      "brand": "华为",
+      "model": "WATCH 6",
+      "display": "华为 WATCH 6",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-6/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-6",
+          "title": "HUAWEI WATCH 6 参数",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-6/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|watchbuds2",
+      "brand": "华为",
+      "model": "WATCH Buds 2",
+      "display": "华为 WATCH Buds 2",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-buds-2/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-buds-2",
+          "title": "HUAWEI WATCH Buds 2",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-buds-2/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|watchd2",
+      "brand": "华为",
+      "model": "WATCH D2",
+      "display": "华为 WATCH D2",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-d2/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-d2",
+          "title": "HUAWEI WATCH D2",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-d2/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|watchd3",
+      "brand": "华为",
+      "model": "WATCH D3",
+      "display": "华为 WATCH D3",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-d3/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-d3",
+          "title": "HUAWEI WATCH D3",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-d3/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|watchfit4pro",
+      "brand": "华为",
+      "model": "WATCH FIT 4 Pro",
+      "display": "华为 WATCH FIT 4 Pro",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-fit4-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-fit4-pro",
+          "title": "HUAWEI WATCH FIT 4 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-fit4-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|watchfit4",
+      "brand": "华为",
+      "model": "WATCH FIT 4",
+      "display": "华为 WATCH FIT 4",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-fit4/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-fit4",
+          "title": "HUAWEI WATCH FIT 4",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-fit4/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|watchfit5pro",
+      "brand": "华为",
+      "model": "WATCH FIT 5 Pro",
+      "display": "华为 WATCH FIT 5 Pro",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-fit5-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-fit5-pro",
+          "title": "HUAWEI WATCH FIT 5 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-fit5-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|watchfit5",
+      "brand": "华为",
+      "model": "WATCH FIT 5",
+      "display": "华为 WATCH FIT 5",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-fit5/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-fit5",
+          "title": "HUAWEI WATCH FIT 5",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-fit5/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|watchgtrunner2",
+      "brand": "华为",
+      "model": "WATCH GT Runner 2",
+      "display": "华为 WATCH GT Runner 2",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-gt-runner-2/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-gt-runner-2",
+          "title": "HUAWEI WATCH GT Runner 2 参数",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-gt-runner-2/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|watchgt6pro",
+      "brand": "华为",
+      "model": "WATCH GT 6 Pro",
+      "display": "华为 WATCH GT 6 Pro",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-gt6-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-gt6-pro",
+          "title": "HUAWEI WATCH GT 6 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-gt6-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|watchgt6",
+      "brand": "华为",
+      "model": "WATCH GT 6",
+      "display": "华为 WATCH GT 6",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-gt6/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-gt6",
+          "title": "HUAWEI WATCH GT 6",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-gt6/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|watchgt7pro",
+      "brand": "华为",
+      "model": "WATCH GT 7 Pro",
+      "display": "华为 WATCH GT 7 Pro",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-gt7-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-gt7-pro",
+          "title": "HUAWEI WATCH GT 7 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-gt7-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|watchgt7",
+      "brand": "华为",
+      "model": "WATCH GT 7",
+      "display": "华为 WATCH GT 7",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-gt7/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-gt7",
+          "title": "HUAWEI WATCH GT 7",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-gt7/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|超新星手表x1pro",
+      "brand": "华为",
+      "model": "超新星手表 X1 Pro",
+      "display": "华为 超新星手表 X1 Pro",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-kids-x1-pro/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-kids-x1-pro",
+          "title": "超新星手表 X1 Pro",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-kids-x1-pro/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|超新星手表x1",
+      "brand": "华为",
+      "model": "超新星手表 X1",
+      "display": "华为 超新星手表 X1",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-kids-x1/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-kids-x1",
+          "title": "超新星手表 X1",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-kids-x1/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|watchultimate2",
+      "brand": "华为",
+      "model": "WATCH Ultimate 2",
+      "display": "华为 WATCH Ultimate 2",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-ultimate-2/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-ultimate-2",
+          "title": "HUAWEI WATCH Ultimate 2",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-ultimate-2/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|watchultimatedesign非凡大师紫金款",
+      "brand": "华为",
+      "model": "WATCH ULTIMATE DESIGN 非凡大师 紫金款",
+      "display": "华为 WATCH ULTIMATE DESIGN 非凡大师 紫金款",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-ultimate-design-royal-gold-edition/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-ultimate-design-royal-gold-edition",
+          "title": "HUAWEI WATCH ULTIMATE DESIGN 非凡大师 紫金款",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-ultimate-design-royal-gold-edition/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|watchultimatedesign非凡大师蓝宝石黄金款",
+      "brand": "华为",
+      "model": "WATCH ULTIMATE DESIGN 非凡大师 蓝宝石黄金款",
+      "display": "华为 WATCH ULTIMATE DESIGN 非凡大师 蓝宝石黄金款",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-ultimate-design-sapphire-edition/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-ultimate-design-sapphire-edition",
+          "title": "HUAWEI WATCH ULTIMATE DESIGN 非凡大师 蓝宝石黄金款",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-ultimate-design-sapphire-edition/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|watchultimatedesign非凡大师星钻绽放款",
+      "brand": "华为",
+      "model": "WATCH ULTIMATE DESIGN 非凡大师 星钻绽放款",
+      "display": "华为 WATCH ULTIMATE DESIGN 非凡大师 星钻绽放款",
+      "category": "wearable",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-ultimate-design-spring-edition/specs/",
+      "offers": [
+        {
+          "sku": "huawei-watch-ultimate-design-spring-edition",
+          "title": "HUAWEI WATCH ULTIMATE DESIGN 非凡大师 星钻绽放款",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wearables/watch-ultimate-design-spring-edition/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|ai音箱2e全屋版",
+      "brand": "华为",
+      "model": "AI 音箱 2e 全屋版",
+      "display": "华为 AI 音箱 2e 全屋版",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wholehome/ai-speaker-2e-new/specs/",
+      "offers": [
+        {
+          "sku": "huawei-ai-speaker-2e-new",
+          "title": "AI 音箱 2e 全屋版",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wholehome/ai-speaker-2e-new/specs/"
+        }
+      ]
+    },
+    {
+      "key": "华为|全屋智能ai辅助康养传感器",
+      "brand": "华为",
+      "model": "全屋智能 AI 辅助康养传感器",
+      "display": "华为 全屋智能 AI 辅助康养传感器",
+      "category": "accessory",
+      "source": "official",
+      "sourceUrl": "https://consumer.huawei.com/cn/wholehome/ai-wellness-sensor/specs/",
+      "offers": [
+        {
+          "sku": "huawei-ai-wellness-sensor",
+          "title": "全屋智能 AI 辅助康养传感器",
+          "source": "official",
+          "sourceUrl": "https://consumer.huawei.com/cn/wholehome/ai-wellness-sensor/specs/"
+        }
+      ]
+    }
+  ]
+}

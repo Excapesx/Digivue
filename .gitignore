@@ -1,0 +1,69 @@
+# ── 项目 .gitignore ────────────────────────────────────────────
+# 前端静态站 + Node 构建脚本。
+# 安全相关规则继承自仓库建立时的约定（密钥/证书/日志/数据库一律不提交）。
+
+# ── 密钥与配置（★ 最重要）──
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+secrets.*
+*.secret
+credentials.*
+htpasswd
+*.conf.local
+deploy.local.*
+
+# ── 依赖与构建产物 ──
+node_modules/
+dist/
+offers.json
+build/
+out/
+.next/
+.nuxt/
+public/assets/
+static/dist/
+
+# ── 日志与运行时数据 ──
+*.log
+logs/
+*.pid
+*.sock
+*.sqlite
+*.sqlite3
+*.db
+tmp/
+temp/
+
+# ── 本项目：抓取中间产物（体积大，可用 official-*.mjs 重新生成）──
+data/candidates.*
+data/specs-draft.json
+
+# ── 本项目：本地调试工具与一次性产物 ──
+.taste-skill/
+.well-known/
+$null
+*.bak
+*.tmp
+*.orig
+*.rej
+
+# ── 编辑器 / IDE ──
+.vscode/*
+!.vscode/settings.json.example
+.idea/
+*.swp
+*.swo
+*~
+
+# ── 系统 ──
+.DS_Store
+Thumbs.db
+desktop.ini

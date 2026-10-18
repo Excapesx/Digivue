@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#18191b">
+<title>digivue · 数码与 AI 社区</title>
+<meta name="description" content="数码与 AI 的社区站：按参数整理的产品库、预算选机与对比工具，以及只收有信源条目的 AI 资讯。">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="favicon.svg">
+<link rel="stylesheet" href="style.css?v=2">
+<!-- BUILD:HEAD -->
+<script>
+/* 1) 有了 JS 才启用入场动效（脚本挂了内容照常可见） */
+document.documentElement.classList.add('js');
+/* 2) 错误可见化：脚本一旦出错，就在页面顶部显示出来，
+      而不是静默留一个空白页面。排查完可以删掉这一段。 */
+(function () {
+  function show(kind, msg) {
+    try {
+      var el = document.getElementById('jserr');
+      if (!el) return;
+      el.hidden = false;
+      el.textContent = kind + '：' + msg;
+    } catch (e) { /* 连这都失败就没办法了 */ }
+  }
+  window.addEventListener('error', function (e) {
+    if (e.target && e.target !== window && e.target.tagName) {
+      show('资源加载失败', (e.target.src || e.target.href || '') + ' 无法载入');
+      return;
+    }
+    show('脚本错误', (e.message || '未知') + '（' + (e.filename || '').split('/').pop() + ':' + e.lineno + '）');
+  }, true);
+  window.addEventListener('unhandledrejection', function (e) {
+    show('异步错误', (e.reason && e.reason.message) || String(e.reason));
+  });
+})();
+</script>
+</head>
+<body>
+
+<div id="jserr" class="jserr" role="alert" hidden></div>
+<a class="skip-link" href="#main">跳到主要内容</a>
+
+<!-- ============ 主导航：首页 | 工具箱 | 选数码 | AI资讯 | 榜单 | 搜索 ============ -->
+<header class="site-nav">
+  <div class="nav-inner">
+    <a class="logo" href="./"><span class="logo-mark">◆</span><span class="logo-text" translate="no">digivue</span></a>
+    <nav class="nav-links" aria-label="主导航">
+      <a class="nav-link" href="./" data-nav="home" aria-current="page">首页</a>
+      <a class="nav-link" href="tools/" data-nav="tools">工具箱</a>
+      <a class="nav-link" href="#board" data-nav="board">选数码</a>
+      <a class="nav-link" href="news/">AI资讯</a>
+      <a class="nav-link" href="ranking/">榜单</a>
+    </nav>
+    <button class="nav-search" type="button" data-open-search aria-label="搜索产品">
+      <svg width="15" height="15" viewBox="0 0 16 16" fill="none" aria-hidden="true"><circle cx="7" cy="7" r="5" stroke="currentColor" stroke-width="1.6"/><path d="M11 11l3.5 3.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+      搜索 <kbd>/</kbd>
+    </button>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-menu" aria-label="打开菜单">
+      <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="M3 6h14M3 10h14M3 14h14" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+    </button>
+  </div>
+  <nav class="nav-menu" id="nav-menu" data-open="false" aria-label="移动端导航">
+    <ul>
+      <li><a href="./">首页 <span class="menu-note">数码与 AI 社区</span></a></li>
+      <li><a href="tools/">工具箱 <span class="menu-note">四件事</span></a></li>
+      <li><a href="#board">选数码 <span class="menu-note">26 款产品板</span></a></li>
+      <li><a href="news/">AI资讯 <span class="menu-note">筹备中</span></a></li>
+      <li><a href="ranking/">榜单 <span class="menu-note">按预算档位</span></a></li>
+      <li><a href="models/">型号库 <span class="menu-note">已核验参数</span></a></li>
+      <li><button type="button" data-open-search>搜索 <span class="menu-note">型号、品牌、卖点</span></button></li>
+    </ul>
+  </nav>
+</header>
+
+<main id="main">
+
+  <!-- ============ 首屏：型录封面。一整幅大字，下面一行话、一个动作 ============ -->
+  <section class="hero" aria-label="站点定位">
+    <canvas class="hero-field" data-hero-field aria-hidden="true"></canvas>
+    <div class="wrap">
+      <h1>
+        <span class="mask-line"><span>数码看参数，</span></span>
+        <span class="mask-line"><span>AI 看信源。</span></span>
+      </h1>
+      <div class="hero-foot">
+        <p class="hero-sentence">产品库、挑选工具，和只认信源的 AI 资讯。</p>
+        <div class="hero-actions">
+          <!-- BUILD:HERO-ACTIONS:START -->
+          <a class="btn btn-accent" href="models/">浏览已核验型号<span class="btn-spark" aria-hidden="true"></span></a>
+          <a class="link" href="#board">查看精选产品</a>
+          <!-- BUILD:HERO-ACTIONS:END -->
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 品牌带：库里覆盖的品牌（慢速滚动，悬停暂停） -->
+  <div class="ticker" aria-label="已收录品牌">
+    <div class="ticker-track" data-ticker></div>
+  </div>
+
+  <!-- 目录带：四个板块。全页唯一的大面积颜色动作，款数由 data.js 实时填 -->
+  <section class="directory" aria-label="站点目录">
+    <div class="wrap">
+      <h2 class="sr-only">站点目录</h2>
+      <nav class="dir-rows" aria-label="四个板块">
+        <a class="dir-row" href="tools/" data-reveal>
+          <span class="dir-name">工具箱</span>
+          <span class="dir-meta">预算选机、对比、榜单、搜索</span>
+        </a>
+        <a class="dir-row" href="#board" data-reveal="2">
+          <span class="dir-name">选数码</span>
+          <span class="dir-meta" data-si-products>43 款精选 · 9 大类</span>
+        </a>
+        <a class="dir-row" href="news/" data-reveal="3">
+          <span class="dir-name">AI资讯</span>
+          <span class="dir-meta">筹备中</span>
+        </a>
+        <a class="dir-row" href="ranking/" data-reveal="4">
+          <span class="dir-name">榜单</span>
+          <span class="dir-meta">按预算档位排</span>
+        </a>
+      </nav>
+      <p class="dir-foot" data-reveal="4">价格每日刷新，排序不看佣金。</p>
+    </div>
+  </section>
+
+  <!-- ============ 选数码：产品板 ============ -->
+  <section class="board wrap" id="board" aria-label="选数码">
+    <div class="board-head">
+      <h2 data-reveal><span class="soft">选数码</span>按和预算的距离排</h2>
+      <p class="board-count" data-board-count aria-live="polite"></p>
+    </div>
+
+    <div class="board-toolbar" data-ui data-reveal="2">
+      <div class="console">
+        <div class="console-head">
+          <label class="console-label" for="budget-board">我的预算</label>
+          <output class="console-value" data-budget-value for="budget-board"><span class="rmb">¥</span>3,000</output>
+        </div>
+        <div class="slider">
+          <span class="slider-track" aria-hidden="true"></span>
+          <span class="slider-fill" data-budget-fill aria-hidden="true" style="width:18.92%"></span>
+          <input id="budget-board" name="budget" data-budget-input type="range"
+                 min="200" max="15000" step="100" value="3000" aria-label="我的预算（产品板上）">
+        </div>
+        <div class="presets" role="group" aria-label="常用预算">
+          <button type="button" class="preset" data-preset="1500" aria-pressed="false">¥1,500</button>
+          <button type="button" class="preset" data-preset="2000" aria-pressed="false">¥2,000</button>
+          <button type="button" class="preset" data-preset="3000" aria-pressed="true">¥3,000</button>
+          <button type="button" class="preset" data-preset="5000" aria-pressed="false">¥5,000</button>
+          <button type="button" class="preset" data-preset="8000" aria-pressed="false">¥8,000</button>
+          <button type="button" class="preset" data-preset="10000" aria-pressed="false">¥10,000</button>
+        </div>
+      </div>
+      <div class="console-readout" data-readout></div>
+    </div>
+
+    <!-- BUILD:MODELS:START -->
+    <p class="board-more"><a class="link" href="models/">完整型号库</a></p>
+    <!-- BUILD:MODELS:END -->
+
+    <div class="board-body">
+      <div class="tabs" data-tabs data-reveal="3" role="group" aria-label="品类"></div>
+      <div>
+        <div class="board-list-head">
+          <div class="sub-row" data-subtabs role="group" aria-label="细分"></div>
+          <div class="sort-row" data-sort role="group" aria-label="排序"></div>
+        </div>
+        <noscript><p class="noscript">你的浏览器禁用了 JavaScript，产品板无法渲染。
+          下方「全部产品」仍可浏览每一款。</p></noscript>
+        <div data-board-list data-reveal="4"></div>
+        <p class="empty" data-board-empty hidden>没有匹配的产品，试试调高预算或清除搜索词。</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 浅色段落：这个站的规则 ============ -->
+  <section class="field on-field intro" aria-label="推荐规则">
+    <div class="wrap">
+      <h2 class="sr-only">推荐规则</h2>
+      <p class="intro-lead" data-reveal>
+        排序只看参数和预算的距离，佣金不参与。
+      </p>
+      <div class="intro-cols">
+        <p class="intro-col" data-reveal><b>数据来源。</b>厂商公开资料，与官网不符时以官网为准。</p>
+        <p class="intro-col" data-reveal="2"><b>价格口径。</b>参考价，成交价以下单页为准。</p>
+        <p class="intro-col" data-reveal="3"><b>排序规则。</b>按和预算的距离，不读佣金字段。</p>
+        <p class="intro-col" data-reveal="4"><b>覆盖范围。</b>精选板覆盖主要数码品类；公开型号库只发布参数可追溯的型号。</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 能力片段：对比（构建时按 data.js 重新生成） ============ -->
+  <!-- BUILD:COMPARE:START -->
+  <section class="wrap capability" aria-label="型号对比">
+    <div class="cap-statement" data-reveal>
+      <h2>两款的差别，一次看清</h2>
+      <p>勾 2 到 3 款，参数按行对齐；不同的行自动亮起。</p>
+      <a class="link" href="#board">去产品板试试</a>
+    </div>
+    <div class="cap-fragment" data-ui data-reveal="2">
+      <table class="cmptable">
+        <thead>
+          <tr>
+            <th scope="col" class="cmp-corner">对比项</th>
+            <th scope="col"><a class="cmp-name" href="phone/redmi-k80/">Redmi K80</a><span class="cmp-brand">Redmi</span></th>
+            <th scope="col"><a class="cmp-name" href="phone/oneplus-ace5/">一加 Ace 5</a><span class="cmp-brand">一加</span></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="cmp-row cmp-row--price is-diff"><th scope="row">参考价</th><td><span class="cmp-price">¥2,499</span></td><td><span class="cmp-price">¥2,599</span></td></tr>
+          <tr class="cmp-row"><th scope="row">处理器</th><td>骁龙 8 Gen 3</td><td>骁龙 8 Gen 3</td></tr>
+          <tr class="cmp-row is-diff"><th scope="row">屏幕</th><td>6.67" 2K OLED 120Hz</td><td>6.78" 1.5K OLED 120Hz</td></tr>
+          <tr class="cmp-row is-diff"><th scope="row">电池</th><td>6550mAh</td><td>6415mAh</td></tr>
+          <tr class="cmp-row is-diff"><th scope="row">快充</th><td>90W</td><td>80W</td></tr>
+        </tbody>
+      </table>
+      <p class="cmp-note">4 项参数，3 项有差异（已高亮）。</p>
+    </div>
+  </section>
+  <!-- BUILD:COMPARE:END -->
+
+  <!-- ============ 常见问题 ============ -->
+  <section class="wrap faq" aria-label="常见问题">
+    <h2 data-reveal>常见问题</h2>
+    <div class="qa-list">
+      <details class="qa" name="faq" data-reveal>
+        <summary>价格是实时的吗？<span class="qa-mark" aria-hidden="true"></span></summary>
+        <div class="qa-a">不是。页面价格是每天刷新的参考价，最终成交价以下单页为准。</div>
+      </details>
+      <details class="qa" name="faq" data-reveal="2">
+        <summary>为什么有的产品没有购买按钮？<span class="qa-mark" aria-hidden="true"></span></summary>
+        <div class="qa-a">没有推广链接的产品照常展示，参数一样完整。</div>
+      </details>
+      <details class="qa" name="faq" data-reveal="3">
+        <summary>佣金会影响推荐顺序吗？<span class="qa-mark" aria-hidden="true"></span></summary>
+        <div class="qa-a">不会。排序不读佣金字段，只看和预算的距离。</div>
+      </details>
+      <details class="qa" name="faq" data-reveal="4">
+        <summary>同一价位为什么先按品类分组？<span class="qa-mark" aria-hidden="true"></span></summary>
+        <div class="qa-a">品类之间没有可比性：3000 元能买手机，也能买笔记本。先分组，组内再比价。</div>
+      </details>
+      <details class="qa" name="faq" data-reveal="2">
+        <summary>数据多久更新一次？<span class="qa-mark" aria-hidden="true"></span></summary>
+        <div class="qa-a">价格每天凌晨刷新一次；页脚显示最近更新时间。</div>
+      </details>
+      <details class="qa" name="faq" data-reveal="3">
+        <summary>榜单按什么排？<span class="qa-mark" aria-hidden="true"></span></summary>
+        <div class="qa-a">每档取该品类里价格最贴近的 3 款，不做「性价比」判断。</div>
+      </details>
+    </div>
+  </section>
+
+  <!-- ============ 完整索引（构建时生成，本地开发页只留说明） ============ -->
+  <!-- BUILD:INDEX:START -->
+  <section class="wrap index-section" aria-label="全部产品">
+    <h2 data-reveal>全部产品</h2>
+    <p class="index-note">完整索引由构建脚本在 <code>dist/</code> 里生成（node build.mjs）。本地开发页不重复生成这一块。</p>
+  </section>
+  <!-- BUILD:INDEX:END -->
+
+  <!-- ============ 收尾 ============ -->
+  <section class="field on-field closing" aria-label="接下来">
+    <div class="wrap">
+      <h2 data-reveal>说得清楚，不替你做决定。</h2>
+      <p data-reveal="2">想按预算挑就拖滑杆；想先看看，就从榜单开始。</p>
+      <div class="closing-actions" data-reveal="3">
+        <a class="btn btn-accent" href="tools/">打开工具箱</a>
+        <a class="btn btn-ink" href="news/">去 AI 资讯</a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<!-- ============ 页脚 ============ -->
+<footer class="site-footer">
+  <div class="wrap">
+    <p class="footer-word"><span class="logo-mark">◆</span>digivue</p>
+    <nav class="footer-nav" aria-label="页脚导航">
+      <a href="./">首页</a>
+      <a href="tools/">工具箱</a>
+      <a href="#board">选数码</a>
+      <a href="news/">AI资讯</a>
+      <a href="ranking/">榜单</a>
+      <a href="models/">型号库</a>
+      <a href="#" data-open-search>搜索</a>
+    </nav>
+    <!-- BUILD:FOOTER:START -->
+    <div class="footer-notes">
+      <p><strong>关于本站</strong>：目前是演示样例数据，参数与价格均非官方发布，也非实时报价。</p>
+      <p><strong>关于佣金</strong>：推广链接可能带来佣金，不影响你的价格，也不影响排序。</p>
+    </div>
+    <!-- BUILD:FOOTER:END -->
+    <!-- BUILD:FOOTER-META:START -->
+    <p class="footer-meta">© 2026 digivue</p>
+    <!-- BUILD:FOOTER-META:END -->
+  </div>
+</footer>
+
+<!-- 对比栏：选中 1 款后出现 -->
+<div class="comparebar" id="comparebar" hidden>
+  <div class="cb-inner">
+    <span class="cb-label">对比</span>
+    <div class="cb-slots" data-cb-slots></div>
+    <span class="cb-hint" data-cb-hint aria-live="polite"></span>
+    <button type="button" class="btn btn-quiet" data-cb-clear>清空</button>
+    <button type="button" class="btn btn-accent" data-cb-go disabled>开始对比</button>
+  </div>
+</div>
+
+<!-- 对比结果弹窗 -->
+<dialog class="cmpdlg" id="cmpdlg">
+  <div class="cmpdlg-head">
+    <h2 id="cmp-title">产品对比</h2>
+    <button type="button" class="cmpdlg-x" data-cmp-close aria-label="关闭">×</button>
+  </div>
+  <div class="cmpdlg-body" id="cmp-body"></div>
+  <div class="cmpdlg-foot">
+    <p class="cmpdlg-tip">高亮行表示存在差异；成交价以下单页为准。</p>
+    <button type="button" class="btn btn-quiet" data-cmp-close2>关闭</button>
+  </div>
+</dialog>
+
+<!-- 全站搜索 -->
+<dialog class="searchdlg" id="searchdlg" aria-label="搜索产品">
+  <div class="search-field">
+    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><circle cx="7" cy="7" r="5" stroke="currentColor" stroke-width="1.6"/><path d="M11 11l3.5 3.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+    <input id="search-input" name="q" type="search" placeholder="搜型号、品牌或卖点…" autocomplete="off"
+           spellcheck="false" enterkeyhint="search" aria-label="搜索关键词">
+    <button type="button" class="search-close" data-search-close aria-label="关闭搜索">×</button>
+  </div>
+  <div class="search-results" data-search-results aria-live="polite"></div>
+  <p class="search-foot" data-search-foot></p>
+</dialog>
+
+<!-- 顺序不能变：data.js 先定义数据，app.js 再消费 -->
+<script src="data.js?v=2"></script>
+<script src="app.js?v=2"></script>
+</body>
+</html>

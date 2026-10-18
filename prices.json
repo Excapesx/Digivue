@@ -1,0 +1,438 @@
+{
+  "updatedAt": "2026-10-16 00:20",
+  "provider": "snapshot",
+  "providerLabel": "快照（未接真实接口）",
+  "count": 43,
+  "prices": {
+    "phone-redmi-turbo4": {
+      "price": 1999,
+      "commissionRate": 0.015,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "phone-redmi-k80": {
+      "price": 2499,
+      "commissionRate": 0.015,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "phone-oneplus-ace5": {
+      "price": 2599,
+      "commissionRate": 0.02,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "phone-iqoo-neo10": {
+      "price": 2799,
+      "commissionRate": 0.02,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "phone-oneplus-13t": {
+      "price": 3399,
+      "commissionRate": 0.02,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "phone-oppo-findx8": {
+      "price": 4199,
+      "commissionRate": 0.025,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "phone-xiaomi15": {
+      "price": 4299,
+      "commissionRate": 0.025,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "phone-vivo-x200": {
+      "price": 4299,
+      "commissionRate": 0.025,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "phone-iphone16": {
+      "price": 5499,
+      "commissionRate": 0.005,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "phone-huawei-mate70": {
+      "price": 5499,
+      "commissionRate": 0.01,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "laptop-redmibook14": {
+      "price": 2999,
+      "commissionRate": 0.02,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "laptop-honor-x16pro": {
+      "price": 3999,
+      "commissionRate": 0.02,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "laptop-xiaoxin-pro14": {
+      "price": 4599,
+      "commissionRate": 0.02,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "laptop-matebook14": {
+      "price": 5299,
+      "commissionRate": 0.015,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "laptop-thinkbook16p": {
+      "price": 8499,
+      "commissionRate": 0.02,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "laptop-macbook-air-m4": {
+      "price": 8999,
+      "commissionRate": 0.005,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "laptop-macbook-pro14-m4pro": {
+      "price": 12999,
+      "commissionRate": 0.005,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "laptop-jiage17": {
+      "price": 5999,
+      "commissionRate": 0.025,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "laptop-asus-tianxuan6": {
+      "price": 7299,
+      "commissionRate": 0.025,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "tablet-xiaomi-pad7": {
+      "price": 1999,
+      "commissionRate": 0.02,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "tablet-huawei-matepad11": {
+      "price": 2299,
+      "commissionRate": 0.02,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "tablet-ipad-air-m3": {
+      "price": 4799,
+      "commissionRate": 0.005,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "acc-gan-charger": {
+      "price": 99,
+      "commissionRate": 0.08,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "acc-powerbank": {
+      "price": 159,
+      "commissionRate": 0.08,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "acc-earbuds": {
+      "price": 599,
+      "commissionRate": 0.06,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "peripheral-keychron-k3": {
+      "price": 549,
+      "commissionRate": 0.06,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "peripheral-mx-master3s": {
+      "price": 699,
+      "commissionRate": 0.05,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "peripheral-redmi-a27u": {
+      "price": 1099,
+      "commissionRate": 0.03,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "desktop-mac-mini-m4": {
+      "price": 4499,
+      "commissionRate": 0.005,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "desktop-serm8": {
+      "price": 2999,
+      "commissionRate": 0.02,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "desktop-legion-7000k": {
+      "price": 7499,
+      "commissionRate": 0.02,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "wearable-watch-gt5": {
+      "price": 1488,
+      "commissionRate": 0.03,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "wearable-watch-se": {
+      "price": 1999,
+      "commissionRate": 0.005,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "wearable-band-10": {
+      "price": 269,
+      "commissionRate": 0.04,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "wearable-glasses-air2": {
+      "price": 2499,
+      "commissionRate": 0.02,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "camera-zve10-ii": {
+      "price": 6799,
+      "commissionRate": 0.02,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "camera-action5-pro": {
+      "price": 2598,
+      "commissionRate": 0.02,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "camera-g7x3": {
+      "price": 5299,
+      "commissionRate": 0.015,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "acc-sandisk-usb-c": {
+      "price": 199,
+      "commissionRate": 0.05,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "camera-eos-200d2": {
+      "price": 3999,
+      "commissionRate": 0.02,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "lens-sigma-1850": {
+      "price": 2899,
+      "commissionRate": 0.02,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "lens-sony-50f18": {
+      "price": 1799,
+      "commissionRate": 0.02,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    },
+    "desktop-diy-14600kf": {
+      "price": 9499,
+      "commissionRate": 0,
+      "buyUrl": null,
+      "ok": true,
+      "platform": null,
+      "offers": [],
+      "refreshedAt": "2026-10-16 00:20",
+      "note": "未绑定渠道 SKU，沿用参数库参考价"
+    }
+  }
+}

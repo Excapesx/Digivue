@@ -1,0 +1,651 @@
+{
+  "generatedAt": "2026-10-18T08:57:27.085Z",
+  "source": "xiaomi-official",
+  "count": 18,
+  "specs": [
+    {
+      "id": "xiaomi-note2",
+      "brand": "紅米Note",
+      "model": "2",
+      "display": "紅米Note 2",
+      "category": "phone",
+      "officialTitle": "红米Note 2",
+      "sourceUrl": "http://www.mi.com/note2/specs/",
+      "fetchedAt": "2026-10-18T08:51:18.599Z",
+      "sections": [
+        {
+          "label": "4G网络",
+          "value": "TDD-LTE (B38/B39/B40/B41: 2555-2655MHz)"
+        },
+        {
+          "label": "3G网络",
+          "value": "TD-SCDMA (B34/B39)"
+        },
+        {
+          "label": "2G网络",
+          "value": "GSM (B2/B3/B8)"
+        },
+        {
+          "label": "4G网络",
+          "value": "TDD-LTE (B38/B39/B40/B41: 2555-2655MHz) FDD-LTE (B1/B3/B7)"
+        },
+        {
+          "label": "3G网络",
+          "value": "TD-SCDMA (B34/B39)、WCDMA (B1/B2/B5/B8)"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-note3",
+      "brand": "紅米Note",
+      "model": "3",
+      "display": "紅米Note 3",
+      "category": "phone",
+      "officialTitle": "红米Note 3",
+      "sourceUrl": "http://www.mi.com/note3/specs/",
+      "fetchedAt": "2026-10-18T08:52:13.522Z",
+      "sections": [
+        {
+          "label": "网络制式",
+          "value": "支持频段"
+        },
+        {
+          "label": "4G FDD-LTE TDD-LTE",
+          "value": "B1/B3/B7 B38/B39/B40/B41: 2555-2655MHz"
+        },
+        {
+          "label": "3G TD-SCDMA WCDMA",
+          "value": "B34/B39 B1/B2/B5/B8"
+        },
+        {
+          "label": "2G GSM",
+          "value": "B2/B3/B8"
+        },
+        {
+          "label": "4G FDD-LTE TDD-LTE",
+          "value": "B1/B3/B4/B5/B7/B8 B38/B39/B40/B41(2555-2655MHz)"
+        },
+        {
+          "label": "3G TD-SCDMA WCDMA CDMA 2000",
+          "value": "B34/B39 B1/B2/B4/B5/B8 BC0"
+        },
+        {
+          "label": "2G GSM CDMA 1X",
+          "value": "B2/B3/B5/B8 BC0"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-mi8i",
+      "brand": "小米",
+      "model": "8 SE",
+      "display": "小米 8 SE",
+      "category": "phone",
+      "officialTitle": "小米8 SE",
+      "sourceUrl": "http://www.mi.com/mi8i/specs/",
+      "fetchedAt": "2026-10-18T08:51:47.021Z",
+      "sections": [
+        {
+          "label": "性能",
+          "value": "骁龙710 AIE处理器全球首发 骁龙710 人工智能引擎AIE 最高主频 2.2GHz Adreno 616 图形处理器 最高主频 500 MHz"
+        },
+        {
+          "label": "全面屏",
+          "value": "5.88英寸 三星 AMOLED 屏幕 5.88英寸（对角线） 18.7:9 定制屏幕比例 2244x1080 FHD+，423 PPI 600nit（HBM），430nit（typ） 60000:1（min） 高对比度 DCI-P3色域 支持AOD熄屏显示 支持阳光屏 支持护眼模式 支持无级色温调节 支持标准模式 支持HDR显示"
+        },
+        {
+          "label": "外观",
+          "value": "长度：147.28 mm 宽度：73.09 mm 厚度：7.5 mm 重量：164 g"
+        },
+        {
+          "label": "充电与电池",
+          "value": "3120mAh（typ）/3020mAh (min) 支持快充3.0 双路并行充电技术 标配QC3.0 18W充电器 USB Type-C 双面充电接口 内置电池，免更换"
+        },
+        {
+          "label": "相机",
+          "value": "AI 超感光双摄 后置 12MP ，1.4um 大像素 ，f/1.9 大光圈，Dual PD 双核对焦 后置 5MP ，1.12um 大像素，f/2.0 大光圈"
+        },
+        {
+          "label": "全网通 双卡和移动网络",
+          "value": "全网通 5.0 支持双卡不限运营商，均可4G驻网① 双Nano-SIM卡槽，任意卡槽均可设置为主卡 支持移动/联通/电信 4G+/4G/3G/2G 支持双卡VoLTE高清语音② 注1： 是否支持4G取决于当地运营商网络，不可同时使用两张电信卡 注2： 受限于运营商网络和业务部署，当前仅支持中国移动VoLTE业务，后续可通过软件升级支持其他运营商VoLTE需求"
+        },
+        {
+          "label": "多媒体播放",
+          "value": "支持第一代视频编解码技术、H.264 (Baseline/Main/High profile)、 MPEG4 (Simple profile/ASP)等视频格式，支持 PCM、AAC/AAC+/eAAC+ 、MP3、AMR – NB and WB、FLAC、WAV等音频格式。 播放HDR10视频内容时支持高动态范围显示。"
+        },
+        {
+          "label": "包装清单",
+          "value": "手机主机 / 极简保护壳 / 电源适配器 / USB Type-C 数据线 / Type-C TO AUDIO 转接线 / 插针 / 三包凭证 / 入门指南"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-mi6",
+      "brand": "小米",
+      "model": "手机6",
+      "display": "小米 手机6",
+      "category": "phone",
+      "officialTitle": "小米6",
+      "sourceUrl": "http://www.mi.com/mi6/specs/",
+      "fetchedAt": "2026-10-18T08:50:55.823Z",
+      "sections": [
+        {
+          "label": "处理器与内存",
+          "value": "4GB+64GB 骁龙835 最高主频 2.45GHz Adreno 540 图形处理器 最高主频 710MHz 4GB LPDDR4x 1866MHz 双通道 64位 64GB 机身存储 UFS"
+        },
+        {
+          "label": "重量与尺寸",
+          "value": "高度：145.17 mm 宽度：70.49 mm 厚度：7.45 mm 亮黑、亮蓝、亮白版重量：168 g 陶瓷尊享版重量：182 g"
+        },
+        {
+          "label": "续航 与 快充",
+          "value": "3350mAh(typ) / 3250mAh（min） 内置电池，免更换 快充 3.0 ，18W 充电 USB Type-C 双面充电接口"
+        },
+        {
+          "label": "拍照 与 摄像",
+          "value": "变焦双摄相机"
+        },
+        {
+          "label": "屏幕",
+          "value": "5.15 英寸（对角线） 600nit 高亮度 1920 x 1080 分辨率，428 PPI，1500:1 对比度 94.4% NTSC色域，高色彩饱和度 支持阳光屏，强烈阳光下清晰可见屏幕内容 支持夜光屏 支持护眼模式 支持色温调节 支持标准模式，颜色更准确"
+        },
+        {
+          "label": "全网通 双卡和移动网络",
+          "value": "3xCA，并支持高阶调制 全网通4.0: 双 Nano-SIM 卡槽，任意卡槽均可设置为主卡 支持移动、联通、电信4G+ / 4G / 3G / 2G 主卡可支持任意运营商 4G 网络， 联通作为副卡均可支持 3G 网络。 2 张电信卡无法同时使用：同时使用时一张卡可使用 4G 网络， 另一张卡将不能注册网络。 802.11a/b/g/n/ac 双频无线网络 具备 2x2 MIMO 技术，支持 MU-MIMO WiFi Display，WiFi Direct 蓝牙5.0 无线技术，蓝牙HID 多功能NFC，支持读卡、写卡、卡模拟和P2P模式 网络频段及插卡说明 FDD-LTE (频段 B1，B3，B5，B7，B8) TD-LTE (频段 B38，B39，B40，B41) TD-SCDMA (频段 B34，B39) WCDMA (频段 B1，B2，B5，B8) GSM (频段 B2，B3，B5，B8) CDMA1X/EVDO (频段 BC0)"
+        },
+        {
+          "label": "多媒体播放",
+          "value": "支持 H.265 /HEVC(Main profile)、H.264 (Baseline/Main/High profile)、 MPEG4 (Simple profile/ASP)、 VC-1(Simple/Main/Advanced profile)等视频格式， 支持 PCM、AAC/AAC+/eAAC+ 、MP3、AMR – NB and WB、FLAC、WAV等音频格式"
+        },
+        {
+          "label": "包装清单",
+          "value": "手机主机 / 电源适配器 / USB Type-C 数据线 / Type-C TO AUDIO 转接线 三包凭证 / 入门指南 / 高透软胶保护套 / 插针"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-mi8",
+      "brand": "小米",
+      "model": "手机8",
+      "display": "小米 手机8",
+      "category": "phone",
+      "officialTitle": "小米8",
+      "sourceUrl": "http://www.mi.com/tw/mi8/specs/",
+      "fetchedAt": "2026-10-18T08:54:13.735Z",
+      "sections": [
+        {
+          "label": "處理器",
+          "value": "Snapdragon™ 845 旗艦行動平台 Snapdragon™ 845 最高主頻 2.8GHz Adreno 630 圖像處理器 最高主頻 710MHz"
+        },
+        {
+          "label": "記憶體與容量",
+          "value": "6GB + 128GB 小米8 最高可選 6GB LPDDR4x 雙通道大記憶體 可選 128GB 機身儲存 UFS"
+        },
+        {
+          "label": "螢幕",
+          "value": "6.21 吋 SAMSUNG AMOLED 螢幕 2248 x 1080 FHD+，402 PPI 600nit (HBM)，430nit (typ) 60000:1(min) 高對比度 DCI-P3 色域 支援 Always On Display (AOD) 支援無級色溫調節 | 標準模式 支援陽光屏 | 護眼模式 支援 HDR 顯示 * 由於Google的限制，小米8會在V10.1.3.0.PEJMIFI 取消<隱藏劉海>的功能。"
+        },
+        {
+          "label": "相機",
+          "value": "AI 超感光雙攝 DxO 超百分相機 12MP 廣角鏡頭，4 軸光學防手震，f/1.8 12MP 長焦鏡頭，人像鏡頭，f/2.4"
+        },
+        {
+          "label": "臉部辨識",
+          "value": "小米8红外線人臉解鎖"
+        },
+        {
+          "label": "指紋辨識",
+          "value": "小米8後置指紋辨識"
+        },
+        {
+          "label": "充電與電池",
+          "value": "小米8 3400mAh （typ）/ 3300mAh (min) 有線充電支援 QC 4.0+ 快充協議* USB Type-C 雙面充電接口 內建電池，免更換 手機支援 QC4+ 快充協議， 標配 18W QC3.0 充電器"
+        },
+        {
+          "label": "雙卡與行動網路",
+          "value": "4G + 4G 雙卡雙待 雙 Nano-SIM 卡槽，任意卡槽均可設置為主卡 支援 4G+/4G/3G/2G 支援 VoLTE 高音質通話（ 中華電信、遠傳電信、台灣之星 ） 支援 VoWiFi 高音質通話（ 中華電信、遠傳電信 ） *受限於電信商網路和業務開通情況，後續可透過軟體升級支援各家電信商 VoLTE/VoWiFi 需求 支援台灣部分CA 組合： 2CA 1800+1800 (B3+B3) 2600+2600(B7+B7) 2100+1800 (B1+B3) 支援頻段 GSM B2 / B3 / B5 / B8 WCDMA B1 / B2 / B4 / B5 / B8 TD-LTE B34 / B38 / B39 / B40 / B41 (120MHz) FDD-LTE B1 / B2 / B3 / B4 / B5 / B7 / B8 / B12 / B17 / B20 LTE B41 4 天線技術，可支援 4×4 MIMO 無線網路 支援協議 802.11a/b/g/n/ac 支援 2.4G WiFi / 支援 5G WiFi / 支援 WiFi Direct 支援 WiFi 2x2 MIMO 技術，支援 MU-MIMO 支援 WiFi Display 支援 藍牙 5.0 支援 AAC/aptX/aptX-HD 音頻"
+        },
+        {
+          "label": "外觀尺寸",
+          "value": "小米8 高度：154.9mm 寬度：74.8mm 厚度：7.6mm 重量：175g"
+        },
+        {
+          "label": "多媒體播放",
+          "value": "H.264(Baseline/Main/High profile)、MPEG4(Simple profile/ASP) 等視訊格式，支援 PCM、AAC/AAC+/eAAC+、MP3、AMR – NB and WB、FLAC、APE、WAV 等音訊格式 播放 HDR 10 影片內容時支援高動態範圍顯示"
+        },
+        {
+          "label": "包裝清單",
+          "value": "手機主機 / 保護套 / 電源充電器 / USB Type-C 傳輸線 / Type-C TO AUDIO 轉接線 / SIM 卡插針 / 入門指南"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-mi4c",
+      "brand": "小米",
+      "model": "手機4c",
+      "display": "小米 手機4c",
+      "category": "phone",
+      "officialTitle": "小米4c",
+      "sourceUrl": "http://www.mi.com/mi4c/specs/",
+      "fetchedAt": "2026-10-18T08:51:39.962Z",
+      "sections": [
+        {
+          "label": "网络制式",
+          "value": "支持频段"
+        },
+        {
+          "label": "4G FDD-LTE TDD-LTE",
+          "value": "bands 1 / 3 / 7 bands 38 / 39 / 40 / 41"
+        },
+        {
+          "label": "3G TD-SCDMA WCDMA CDMA 2000",
+          "value": "bands 34 / 39 bands 1 / 2 / 5 / 8 bands BC0 / BC1"
+        },
+        {
+          "label": "2G GSM CDMA 1X",
+          "value": "bands 2 / 3 / 5 / 8 BC0 / BC1"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-mi4i",
+      "brand": "小米",
+      "model": "手機4i",
+      "display": "小米 手機4i",
+      "category": "phone",
+      "officialTitle": "Mi 4i",
+      "sourceUrl": "http://www.mi.com/in/mi4i/specs/",
+      "fetchedAt": "2026-10-18T08:55:50.665Z",
+      "sections": [
+        {
+          "label": "Network",
+          "value": "Bands"
+        },
+        {
+          "label": "4G FDD-LTE TD-LTE",
+          "value": "B3 / B7 B38 / B39 / B40 / B41"
+        },
+        {
+          "label": "3G TD-SCDMA WCDMA",
+          "value": "1900 / 2000MHz 850 / 900 / 1900 / 2100MHz"
+        },
+        {
+          "label": "2G GSM",
+          "value": "850 / 900 / 1800 / 1900MHz"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-mi4s",
+      "brand": "小米",
+      "model": "手機4S",
+      "display": "小米 手機4S",
+      "category": "phone",
+      "officialTitle": "小米手机4S",
+      "sourceUrl": "http://www.mi.com/mi4s/specs/",
+      "fetchedAt": "2026-10-18T08:51:26.567Z",
+      "sections": [
+        {
+          "label": "网络制式",
+          "value": "支持频段"
+        },
+        {
+          "label": "4G",
+          "value": "FDD-LTE TDD-LTE / bands 1 / 3 / 7 bands 38 / 39 / 40 / 41"
+        },
+        {
+          "label": "3G",
+          "value": "TD-SCDMA WCDMA CDMA 2000 / bands 34 / 39 bands 1 / 2 / 5 / 8 bands BC0 / BC1"
+        },
+        {
+          "label": "2G",
+          "value": "GSM CDMA 1X / bands 2 / 3 / 5 / 8 BC0 / BC1"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-mi5s",
+      "brand": "小米",
+      "model": "手機5s",
+      "display": "小米 手機5s",
+      "category": "phone",
+      "officialTitle": "小米5s",
+      "sourceUrl": "http://www.mi.com/mi5s/specs/",
+      "fetchedAt": "2026-10-18T08:51:05.358Z",
+      "sections": [
+        {
+          "label": "处理器与内存",
+          "value": "4GB内存+32GB闪存 骁龙821 最高主频 2.15GHz Adreno 530 图形处理器 624MHz 4GB LPDDR4 1866MHz 双通道 32GB 机身存储 UFS2.0"
+        },
+        {
+          "label": "重量与尺寸",
+          "value": "高度：145.6 mm 宽度：70.3 mm 厚度：8.25 mm 重量：145 g"
+        },
+        {
+          "label": "拍照 与 摄像",
+          "value": "1200 万像素超感光相机 12MP 索尼 IMX 378 相机 6片式镜头，f 2.0光圈，80°大广角 双色温闪光灯 支持 PDAF 相位对焦 支持32秒手动曝光 高通第二代 ISP 暗光增强技术 高动态范围调节技术 全景模式 自动 HDR 拍照 连拍模式 面部识别功能"
+        },
+        {
+          "label": "屏幕",
+          "value": "5.15 英寸（对角线） 600nit 高亮度 支持压感屏（仅4GB+128GB支持） 1920 x 1080 分辨率，428 PPI，1500:1 对比度 94.4% NTSC色域，高色彩饱和度 支持阳光屏，强烈阳光下清晰可见屏幕内容 支持夜光屏 支持护眼模式 支持色温调节 支持标准模式，颜色更准确"
+        },
+        {
+          "label": "多媒体播放",
+          "value": "支持 H.265 /HEVC(Main profile)、H.264 (Baseline/Main/High profile)、 MPEG4 (Simple profile/ASP)、VC-1(Simple/Main/Advanced profile)等视频格式， 支持 PCM、AAC/AAC+/eAAC+ 、MP3、AMR – NB and WB、FLAC、APE、 DSD、WAV等音频格式"
+        },
+        {
+          "label": "包装清单",
+          "value": "手机主机 / 电源适配器 / USB Type-C 数据线 / 三包凭证 / 入门指南"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-mi5splus",
+      "brand": "小米",
+      "model": "手機5s Plus",
+      "display": "小米 手機5s Plus",
+      "category": "phone",
+      "officialTitle": "小米5s Plus",
+      "sourceUrl": "http://www.mi.com/mi5splus/specs/",
+      "fetchedAt": "2026-10-18T08:51:28.693Z",
+      "sections": [
+        {
+          "label": "配置",
+          "value": "标准版 4GB 内存 + 64GB 闪存 高通骁龙821 处理器 最高主频 2.35GHz Adreno 530 图形处理器 653MHz 4GB LPDDR4 1866MHz 双通道 64GB 机身存储 UFS2.0"
+        },
+        {
+          "label": "重量 与 尺寸",
+          "value": "高度：154.6 mm 宽度：77.7 mm 厚度：7.95 mm 重量：168 g"
+        },
+        {
+          "label": "拍照 与 摄像",
+          "value": "1300 万像素，彩色后置相机 1300 万像素，黑白后置相机 双色温闪光灯 支持 PDAF 相位对焦 暗光画质增强技术 HDR高动态范围调节技术 黑白相机 RAW格式 面部识别功能 实时滤镜拍照 合影优选"
+        },
+        {
+          "label": "显示屏",
+          "value": "5.7 英寸全高清屏幕（对角线） 550nit 高亮度 1920×1080 分辨率，386 PPI，1300:1 对比度 94% NTSC色域，高色彩饱和度 支持阳光屏，强烈阳光下清晰可见屏幕内容 支持夜光屏 支持护眼模式 支持色温和屏幕优化 支持标准模式"
+        },
+        {
+          "label": "全网通 双卡和移动网络",
+          "value": "全网通 3.0 3×CA，并支持高阶调制 双 Nano-SIM 卡槽，任意卡槽均可设置为主卡 支持移动、联通、电信 4G+ / 4G / 3G / 2G，支持带内、带间载波聚合的4G+网络 当主卡移动、联通 4G 时，副卡最高支持联通 3G 网络语音电话 2 张电信卡无法同时使用：同时使用时，一张卡可使用4G 网络 另一张卡将不能注册网络 802.11a / b / g / n / ac 双频无线网络，具备 MU-MIMO 技术 WiFi Display，WiFi Direct 蓝牙 4.2 无线技术，蓝牙HID 多功能NFC，支持读卡、写卡、卡模拟和 P2P 模式 NFC功能具体使用详情，请前往小米钱包官方网站进行查询：https://www.mipay.com"
+        },
+        {
+          "label": "包装清单",
+          "value": "手机主机 / 电源适配器 / 保护壳 / 插针 / USB Type-C 数据线 / 三包凭证 / 入门指南"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-max2",
+      "brand": "小米",
+      "model": "Max 2",
+      "display": "小米 Max 2",
+      "category": "phone",
+      "officialTitle": "小米Max 2",
+      "sourceUrl": "http://www.mi.com/max2/specs/",
+      "fetchedAt": "2026-10-18T08:51:38.909Z",
+      "sections": [
+        {
+          "label": "通话",
+          "value": "视频播放 / 游戏 / 音频播放 / 阅读 / 导航"
+        },
+        {
+          "label": "57 小时",
+          "value": "18 小时 / 9 小时 / 10 天 / 19 小时 / 21 小时"
+        },
+        {
+          "label": "· GPS",
+          "value": "· AGPS / · GLONASS / · 北斗定位"
+        },
+        {
+          "label": "· 红外",
+          "value": "· 陀螺仪 / · 加速感应器 / · 距离感应器"
+        },
+        {
+          "label": "· 环境光传感器",
+          "value": "· 霍尔感应器 / · 指纹识别"
+        },
+        {
+          "label": "· MP4",
+          "value": "· M4V / · MKV / · XVID"
+        },
+        {
+          "label": "· AAC",
+          "value": "· MP3 / · AMR / · FLAC"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-minote2",
+      "brand": "小米",
+      "model": "Note 2",
+      "display": "小米 Note 2",
+      "category": "phone",
+      "officialTitle": "小米Note 2",
+      "sourceUrl": "http://www.mi.com/minote2/specs/",
+      "fetchedAt": "2026-10-18T08:51:29.612Z",
+      "sections": [
+        {
+          "label": "配置",
+          "value": "标准版 4GB 内存 + 64GB 闪存 骁龙821 性能版，最高主频 2.35GHz Adreno 530 图形处理器 4G+ 全网通 2799元"
+        },
+        {
+          "label": "重量与尺寸",
+          "value": "高度：156.2 mm 宽度：77.3 mm 厚度：7.6 mm 重量：标准版 / 高配版 / 3D玻璃机身；约166g"
+        },
+        {
+          "label": "续航 与 快充",
+          "value": "4070mAh（typ） / 4000mAh（min）超长续航 支持快充3.0 9V / 2A 充电"
+        },
+        {
+          "label": "拍照 与 摄像",
+          "value": "2256 万像素相机 6片式镜头，f/2.0，FOV 80° 双色温闪光灯 硬件级电子防抖 暗光画质增强技术 HDR高动态范围调节技术 全景模式 连拍模式 面部识别功能 实时滤镜拍照"
+        },
+        {
+          "label": "柔性曲面屏",
+          "value": "5.7 英寸（对角线） 100000:1 对比度 110% NTSC色域 1920 x 1080 分辨率 支持阳光屏，强烈阳光下清晰可见屏幕内容 支持护眼模式 支持色温调节、标准模式"
+        },
+        {
+          "label": "网络",
+          "value": "全球版（6 模 37 频） 全网通（6 模 19 频） 支持 CAT 12 支持多种载波聚合组合的 4G+ 网络 802.11 ac 双频无线网络 蓝牙4.2无线技术 支持全功能NFC NFC功能具体使用详情， 请前往小米钱包官方网站进行查询：https://www.mipay.com"
+        },
+        {
+          "label": "多媒体播放",
+          "value": "支持 H.265 /HEVC(Main profile)、H.264 (Baseline/Main/High profile)、 MPEG4 (Simple profile/ASP)、 \\ VC-1(Simple/Main/Advanced profile)等视频格式， 支持 PCM、AAC/AAC+/eAAC+ 、MP3、AMR-NB/WB、FLAC、APE、 DSD、WAV等音频格式"
+        },
+        {
+          "label": "包装清单",
+          "value": "手机主机 / 电源适配器 / USB-C 数据线 / 三包凭证 / 入门指南 / 插针"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-hongmi2a",
+      "brand": "Redmi",
+      "model": "2A",
+      "display": "Redmi 2A",
+      "category": "phone",
+      "officialTitle": "红米手机2A",
+      "sourceUrl": "http://www.mi.com/hongmi2a/specs/",
+      "fetchedAt": "2026-10-18T08:51:37.913Z",
+      "sections": [
+        {
+          "label": "4G 网络",
+          "value": "TDD-LTE(B38 / B39 / B40 / B41: 2555-2655MHz)"
+        },
+        {
+          "label": "3G 网络",
+          "value": "TD-SCDMA(B34 / B39)"
+        },
+        {
+          "label": "2G 网络",
+          "value": "GSM(B2 / B3 / B8)"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-redmi6",
+      "brand": "Redmi",
+      "model": "6",
+      "display": "Redmi 6",
+      "category": "phone",
+      "officialTitle": "红米6",
+      "sourceUrl": "http://www.mi.com/redmi6/specs/",
+      "fetchedAt": "2026-10-18T08:53:40.551Z",
+      "sections": [
+        {
+          "label": "性能",
+          "value": "Helio P22八核处理器，12nm制程工艺，最高主频 2.0GHz 3GB + 32GB / 4GB+64GB 支持高达256GB的可扩展存储"
+        },
+        {
+          "label": "相机",
+          "value": "后置1200万+500万 AI 双摄 PDAF相位对焦 f/2.2 光圈镜头 LED闪光灯 人像模式 后置美颜 夜景增强 标准HDR 连拍模式 街拍模式 倒计时拍照 场景选择 视频 1080p 视频拍摄 1920x1080 30fps 720p 视频拍摄 1280x720 30fps 480p 视频拍摄 640x480 30fps 慢动作视频 480p 120fps"
+        },
+        {
+          "label": "屏幕",
+          "value": "18:9 全面屏 5.45 英寸（对角线） 295 PPI，对比度1000:1（typ） 1440x720分辨率 支持阳光屏 支持夜光屏 支持护眼模式 智能环境适应模式 屏幕增强 支持色温调节 支持标准模式"
+        },
+        {
+          "label": "外观",
+          "value": "高度：147.5mm 宽度：71.5mm 厚度：8.3mm 重量：146克"
+        },
+        {
+          "label": "电池",
+          "value": "3000mAh（typ） / 2900mAh（min） 支持5V1A充电"
+        },
+        {
+          "label": "双卡双待和 移动网络",
+          "value": "全网通5.0 双卡双待双4G 全网通5.0，支持 Nano-SIM卡/Micro-SD 扩展存储卡，支持双卡不限运营商，均可4G驻网； 双Nano-SIM卡槽，任意卡槽均可设置为主卡，支持移动/联通/电信 4G/3G/2G，支持VoLTE高清语音"
+        },
+        {
+          "label": "多媒体播放",
+          "value": "支持 H.263、H.264 AVC Baseline Profile（BP）、H.264 AVC Main Profile（MP）、MPEG-4 SP等视频格式 支持 PCM、AAC / AAC+ 、MP3、AMR – NB and WB、Opus、PCM/WAVE、Vorbis等音频格式"
+        },
+        {
+          "label": "包装清单",
+          "value": "手机主机 / 电源适配器 / Micro USB 数据线 / 三包凭证 / 入门指南 / 插针"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-redmi6pro",
+      "brand": "Redmi",
+      "model": "6 Pro",
+      "display": "Redmi 6 Pro",
+      "category": "phone",
+      "officialTitle": "红米6 Pro",
+      "sourceUrl": "http://www.mi.com/redmi6pro/specs/",
+      "fetchedAt": "2026-10-18T08:51:56.648Z",
+      "sections": [
+        {
+          "label": "性能",
+          "value": "骁龙625处理器，最高主频 2.0GHz 3GB + 32GB / 4GB + 32GB / 4GB + 64GB Adreno™ 506 图形处理器，最高主频 650 MHz 支持高达256GB的可扩展存储"
+        },
+        {
+          "label": "后置相机",
+          "value": "AI 双摄 1200万+500万双摄相机 PDAF相位对焦 f/2.2 光圈镜头 LED闪光灯 AI人像模式 背景虚化 夜景增强 标准HDR Auto HDR 软件视频防抖(EIS) 连拍模式 街拍模式 视频 1080p 视频拍摄，1920x1080 30fps 720p 视频拍摄，1280x720 30fps 480p 视频拍摄，720x480 30fps 慢动作视频，720p 120fps"
+        },
+        {
+          "label": "前置相机",
+          "value": "500万前置美颜自拍 AI 人像模式，前置单摄背景虚化 AI 智能美颜 倒计时自拍 魔镜 前置HDR 人脸解锁 AI人脸解锁算法，通过人脸检测、活体检测等技术，进行高精度智能匹配， 实现快速、安全的人脸解锁。"
+        },
+        {
+          "label": "屏幕",
+          "value": "19:9 全面屏 5.84 英寸（对角线） 432 PPI，对比度1500:1，500（typ）nit 亮度 2280x1080分辨率 84％NTSC色域 支持阳光屏 支持夜光屏 支持护眼模式 支持屏幕增强 支持标准模式 支持智能环境适应模式（色温）"
+        },
+        {
+          "label": "外观",
+          "value": "高度：149.33mm 宽度：71.68mm 厚度：8.75mm 重量：178克"
+        },
+        {
+          "label": "双卡双待和 移动网络",
+          "value": "双卡双待 支持双Nano-Sim卡+micro-SD扩展，全网通3.0，支持双卡不限运营商，不能同时支持双卡4G驻网， 双Nano-SIM卡槽，任意卡槽均可设置为主卡， 支持移动/联通/电信 4G/3G/2G，支持移动/联通4G+，支持VoLTE高清语音"
+        },
+        {
+          "label": "电池",
+          "value": "4000mAh（typ） / 3900mAh（min） 内置电池，免更换 支持5V2A充电"
+        },
+        {
+          "label": "多媒体播放",
+          "value": "支持AAC LC、HE-AACv1（ACC+）、HE-AACv2（ACC+）、ACCELD（enhanced low delay）、ACC、AMR- NB、AMR-WB、FLAC、MIDI、MP3、Opus、PCM/WAVE、Vorbis音频格式"
+        },
+        {
+          "label": "包装清单",
+          "value": "手机主机 / 手机保护套 / 电源适配器 / USB Micro USB 数据线 / 插针 / 三包凭证 / 入门指南"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-hongmi3",
+      "brand": "Redmi",
+      "model": "手机3",
+      "display": "Redmi 手机3",
+      "category": "phone",
+      "officialTitle": "红米手机3",
+      "sourceUrl": "http://www.mi.com/hongmi3/specs/",
+      "fetchedAt": "2026-10-18T08:52:28.377Z",
+      "sections": [
+        {
+          "label": "网络制式",
+          "value": "支持频段"
+        },
+        {
+          "label": "4G FDD-LTE TDD-LTE",
+          "value": "B1/B3/B7 B38/B39/B40/B41: 2555-2655MHz"
+        },
+        {
+          "label": "3G TD-SCDMA WCDMA CDMA2000",
+          "value": "B34/B39 B1/B2/B5/B8 BC0"
+        },
+        {
+          "label": "2G GSM CDMA 1X",
+          "value": "B2/B3/B5/B8 BC0​"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-hongmi3s",
+      "brand": "Redmi",
+      "model": "手机3S",
+      "display": "Redmi 手机3S",
+      "category": "phone",
+      "officialTitle": "红米3S",
+      "sourceUrl": "http://www.mi.com/hongmi3s/specs/",
+      "fetchedAt": "2026-10-18T08:53:09.461Z",
+      "sections": [
+        {
+          "label": "4G",
+          "value": "FDD-LTE TDD-LTE / B1/B3/B7 B38/B39/B40/B41: 2555-2655MHz"
+        },
+        {
+          "label": "3G",
+          "value": "TD-SCDMA WCDMA CDMA2000 / B34/B39 B1/B2/B5/B8 BC0"
+        },
+        {
+          "label": "2G",
+          "value": "GSM CDMA 1X / B2/B3/B5/B8 BC0​"
+        }
+      ]
+    },
+    {
+      "id": "xiaomi-redminote4x",
+      "brand": "Redmi",
+      "model": "Note 4X",
+      "display": "Redmi Note 4X",
+      "category": "phone",
+      "officialTitle": "红米Note 4X",
+      "sourceUrl": "http://www.mi.com/redminote4x/specs/",
+      "fetchedAt": "2026-10-18T08:54:29.059Z",
+      "sections": [
+        {
+          "label": "2G 通话",
+          "value": "视频播放 / 游戏 / 4G 待机 / 音频播放 / 阅读"
+        },
+        {
+          "label": "51小时",
+          "value": "18小时 / 15小时 / 11天 / 162小时 / 22小时"
+        }
+      ]
+    }
+  ]
+}

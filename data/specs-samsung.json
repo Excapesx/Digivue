@@ -1,0 +1,571 @@
+{
+  "generatedAt": "2026-10-18T09:07:45.065Z",
+  "source": "samsung-official",
+  "count": 8,
+  "specs": [
+    {
+      "id": "samsung-galaxy-s22-bora-purple-128gb-sm-s9010lvdchc",
+      "brand": "三星",
+      "model": "Galaxy S22",
+      "display": "三星 Galaxy S22",
+      "category": "phone",
+      "sourceBrand": "三星",
+      "officialTitle": "galaxy s22",
+      "sourceUrl": "https://www.samsung.com.cn/smartphones/galaxy-s/galaxy-s22-bora-purple-128gb-sm-s9010lvdchc/",
+      "fetchedAt": "2026-10-18T09:07:41.167Z",
+      "sections": [
+        {
+          "label": "处理器",
+          "value": "CPU 主频：2.99GHz,2.4GHz,1.7GHz\nCPU 核数：八核"
+        },
+        {
+          "label": "显示屏",
+          "value": "尺寸：6.1英寸(直角) / 5.9英寸(圆角)\n分辨率：2340 x 1080 (FHD+)\n类型：第二代动态AMOLED\n色彩：1600万色"
+        },
+        {
+          "label": "摄像头",
+          "value": "后置摄像头 - 分辨率 (多重)：5000万像素 + 1000万像素 + 1200万像素\n后置摄像头 - 光圈 (多重)：F1.8 , F2.4 , F2.2\n后置摄像头 - 自动对焦：支持\n后置摄像头 - OIS：支持\n后置摄像头 - 变焦：光学变焦3倍，数码变焦高达30倍\n前置摄像头 - 分辨率：1000万像素\n前置摄像头 - 光圈：F2.2\n前置摄像头 - 自动对焦：支持\n后置摄像头 - 闪光灯：支持\n视频拍摄：UHD 8K (7680 x 4320)@24fps\n慢动作：960fps @HD, 240fps @FHD"
+        },
+        {
+          "label": "存储/内存",
+          "value": "内存(GB)：8\n存储 (GB)：128\n用户可用存储(GB)：97（二进制）<br> 102.9（十进制）<br> *可用存储计算方式从现有的二进制改为十进制。计算方式的改变本身不会影响实际物理容量。"
+        },
+        {
+          "label": "网络",
+          "value": "卡槽数量：双卡\nSIM size：Nano-SIM (4FF)\n卡槽类型：SIM 1 + SIM 2\n2G GSM：GSM850,GSM900,DCS1800,PCS1900\n3G UMTS：B1(2100),B2(1900),B5(850),B8(900)"
+        },
+        {
+          "label": "网络频率 (中国)",
+          "value": "4G FDD LTE：B1(2100),B2(1900),B3(1800),B4(AWS),B5(850),B7(2600),B8(900),B12(700),B13(700),B18(800),B19(800),B20(800),B25(1900),B26(850),B28(700),B66(AWS-3)\n4G TDD LTE：B34(2010),B38(2600),B39(1900),B40(2300),B41(2500)\n5G FDD Sub6：N1(2100),N8(900),N28(700)\n5G TDD Sub6：N41(2500),N78(3500),N79(4500)"
+        },
+        {
+          "label": "连接性",
+          "value": "USB 接口：USB Type-C\nUSB 版本：USB 3.2 Gen 1\n位置服务：GPS, Glonass, Beidou, Galileo, QZSS\n耳机接口：USB Type-C\nWLAN（Wi-Fi）：802.11a/b/g/n/ac/ax 2.4GHz+5GHz, HE80, MIMO, 1024-QAM\nWLAN（Wi-Fi）直连：支持\n蓝牙版本：蓝牙 v5.2\nNFC：支持\nPC Sync.：S 换机助手（PC 版）"
+        },
+        {
+          "label": "外观",
+          "value": "外形：触屏直板"
+        },
+        {
+          "label": "物理规格",
+          "value": "尺寸 (高*宽*厚, mm)：146.0 x 70.6 x 7.6\n重量 (g)：167"
+        },
+        {
+          "label": "电池",
+          "value": "电池容量 (mAh, 典型值)：3700"
+        },
+        {
+          "label": "音频和视频",
+          "value": "立体声：支持\n视频播放格式：MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM\n视频播放分辨率：UHD 8K (7680 x 4320)@60fps\n音频播放格式：MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA, DFF, DSF, APE"
+        },
+        {
+          "label": "OS",
+          "value": "OS：Android"
+        },
+        {
+          "label": "传感器",
+          "value": "加速感应器, 气压传感器, 指纹识别器, 陀螺仪传感器, 地磁传感器, 霍尔传感器, 光线传感器, 近距传感器"
+        },
+        {
+          "label": "服务和应用程序",
+          "value": "设备支持：Galaxy Buds Pro,Galaxy Buds Live,Galaxy Buds+,Galaxy Buds2,Galaxy Buds,Galaxy Fit2,Galaxy Watch4,Galaxy Watch3,Galaxy Watch,Galaxy Watch Active2,Galaxy Watch Active,Gear Fit2 Pro,Gear Sport,Gear S3,Gear S2,Gear IconX (2018)\n三星 DeX 扩展坞：支持"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-s22-ultra-burgundy-1tb-sm-s9080drpchc",
+      "brand": "三星",
+      "model": "Galaxy S22 Ultra",
+      "display": "三星 Galaxy S22 Ultra",
+      "category": "phone",
+      "sourceBrand": "三星",
+      "officialTitle": "galaxy s22 ultra",
+      "sourceUrl": "https://www.samsung.com.cn/smartphones/galaxy-s/galaxy-s22-ultra-burgundy-1tb-sm-s9080drpchc/",
+      "fetchedAt": "2026-10-18T09:07:41.603Z",
+      "sections": [
+        {
+          "label": "处理器",
+          "value": "CPU 主频：2.99GHz,2.4GHz,1.7GHz\nCPU 核数：八核"
+        },
+        {
+          "label": "显示屏",
+          "value": "尺寸：6.8英寸(直角) / 6.8英寸(圆角)\n分辨率：3088 x 1440 (Quad HD+)\n类型：第二代动态AMOLED\n色彩：1600万色"
+        },
+        {
+          "label": "摄像头",
+          "value": "后置摄像头 - 分辨率 (多重)：1.08亿像素+1000万像素+1200万像素+1000万像素\n后置摄像头 - 光圈 (多重)：F1.8 , F4.9 , F2.2 , F2.4\n后置摄像头 - 自动对焦：支持\n后置摄像头 - OIS：支持\n后置摄像头 - 变焦：光学变焦3倍和10倍，数码变焦高达100倍\n前置摄像头 - 分辨率：4000万像素\n前置摄像头 - 光圈：F2.2\n前置摄像头 - 自动对焦：支持\n后置摄像头 - 闪光灯：支持\n视频拍摄：UHD 8K (7680 x 4320)@24fps\n慢动作：960fps @HD, 240fps @FHD"
+        },
+        {
+          "label": "存储/内存",
+          "value": "内存(GB)：12\n存储 (TB)：1\n用户可用存储(GB)：926（二进制）<br>986.5（十进制）<br>*可用存储计算方式从现有的二进制改为十进制。计算方式的改变本身不会影响实际物理容量。"
+        },
+        {
+          "label": "网络",
+          "value": "卡槽数量：双卡\nSIM size：Nano-SIM (4FF)\n卡槽类型：SIM 1 + SIM 2\n2G GSM：GSM850,GSM900,DCS1800,PCS1900\n3G UMTS：B1(2100),B2(1900),B5(850),B8(900)"
+        },
+        {
+          "label": "网络频率 (中国)",
+          "value": "4G FDD LTE：B1(2100),B2(1900),B3(1800),B4(AWS),B5(850),B7(2600),B8(900),B12(700),B13(700),B18(800),B19(800),B20(800),B25(1900),B26(850),B28(700),B66(AWS-3)\n4G TDD LTE：B34(2010),B38(2600),B39(1900),B40(2300),B41(2500)\n5G FDD Sub6：N1(2100),N8(900),N28(700)\n5G TDD Sub6：N41(2500),N78(3500),N79(4500)"
+        },
+        {
+          "label": "连接性",
+          "value": "USB 接口：USB Type-C\nUSB 版本：USB 3.2 Gen 1\n位置服务：GPS, Glonass, Beidou, Galileo, QZSS\n耳机接口：USB Type-C\nWLAN（Wi-Fi）：802.11a/b/g/n/ac/ax 2.4GHz+5GHz, HE160, MIMO, 1024-QAM\nWLAN（Wi-Fi）直连：支持\n蓝牙版本：蓝牙 v5.2\nNFC：支持\n超宽带 (UWB)：支持\nPC Sync.：S 换机助手（PC 版）"
+        },
+        {
+          "label": "外观",
+          "value": "外形：触屏直板"
+        },
+        {
+          "label": "物理规格",
+          "value": "尺寸 (高*宽*厚, mm)：163.3 x 77.9 x 8.9\n重量 (g)：228"
+        },
+        {
+          "label": "电池",
+          "value": "电池容量 (mAh, 典型值)：5000"
+        },
+        {
+          "label": "音频和视频",
+          "value": "立体声：支持\n视频播放格式：MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM\n视频播放分辨率：UHD 8K (7680 x 4320)@60fps\n音频播放格式：MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA, DFF, DSF, APE"
+        },
+        {
+          "label": "S Pen",
+          "value": "支持"
+        },
+        {
+          "label": "OS",
+          "value": "OS：Android"
+        },
+        {
+          "label": "传感器",
+          "value": "加速感应器, 气压传感器, 指纹识别器, 陀螺仪传感器, 地磁传感器, 霍尔传感器, 光线传感器, 近距传感器"
+        },
+        {
+          "label": "服务和应用程序",
+          "value": "设备支持：Galaxy Buds Pro,Galaxy Buds Live,Galaxy Buds+,Galaxy Buds2,Galaxy Buds,Galaxy Fit2,Galaxy Watch4,Galaxy Watch3,Galaxy Watch,Galaxy Watch Active2,Galaxy Watch Active,Gear Fit2 Pro,Gear Sport,Gear S3,Gear S2,Gear IconX (2018)\n三星 DeX 扩展坞：支持"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-s23-cream-128gb-sm-s9110zedchc",
+      "brand": "三星",
+      "model": "Galaxy S23",
+      "display": "三星 Galaxy S23",
+      "category": "phone",
+      "sourceBrand": "三星",
+      "officialTitle": "galaxy s23",
+      "sourceUrl": "https://www.samsung.com.cn/smartphones/galaxy-s/galaxy-s23-cream-128gb-sm-s9110zedchc/",
+      "fetchedAt": "2026-10-18T09:07:41.997Z",
+      "sections": [
+        {
+          "label": "处理器",
+          "value": "CPU 主频：3.36GHz,2.8GHz,2GHz\nCPU 核数：八核"
+        },
+        {
+          "label": "显示屏",
+          "value": "尺寸：6.1英寸(直角) / 5.9英寸(圆角)\n分辨率：2340 x 1080 (FHD+)\n类型：第二代动态AMOLED\n色彩：1600万色\n最高刷新率：120 Hz"
+        },
+        {
+          "label": "摄像头",
+          "value": "后置摄像头 - 分辨率 (多重)：5000万像素 + 1000万像素 + 1200万像素\n后置摄像头 - 光圈 (多重)：F1.8 , F2.4 , F2.2\n后置摄像头 - 自动对焦：支持\n后置摄像头 - OIS：支持\n后置摄像头 - 变焦：光学变焦3倍，数码变焦高达30倍\n前置摄像头 - 分辨率：1200万像素\n前置摄像头 - 光圈：F2.2\n前置摄像头 - 自动对焦：支持\n后置摄像头 - 闪光灯：支持\n视频拍摄：UHD 8K (7680 x 4320)@30fps\n慢动作：960fps @FHD, 240fps @FHD"
+        },
+        {
+          "label": "存储/内存",
+          "value": "内存(GB)：8\n存储 (GB)：128\n用户可用存储(GB)：95.9（二进制）<br>102.3（十进制）<br>*可用存储计算方式从现有的二进制改为十进制。计算方式的改变本身不会影响实际物理容量。"
+        },
+        {
+          "label": "网络",
+          "value": "卡槽数量：双卡\nSIM size：Nano-SIM (4FF)\n卡槽类型：SIM 1 + SIM 2\n2G GSM：GSM850,GSM900,DCS1800,PCS1900\n3G UMTS：B1(2100),B2(1900),B5(850),B8(900)"
+        },
+        {
+          "label": "网络频率 (中国)",
+          "value": "4G FDD LTE：B1(2100),B2(1900),B3(1800),B4(AWS),B5(850),B7(2600),B8(900),B12(700),B13(700),B18(800),B19(800),B20(800),B25(1900),B26(850),B28(700),B66(AWS-3)\n4G TDD LTE：B34(2010),B38(2600),B39(1900),B40(2300),B41(2500)\n5G FDD Sub6：N1(2100),N8(900),N28(700)\n5G TDD Sub6：N41(2500),N78(3500),N79(4500)"
+        },
+        {
+          "label": "连接性",
+          "value": "USB 接口：USB Type-C\nUSB 版本：USB 3.2 Gen 1\n位置服务：GPS, Glonass, Beidou, Galileo, QZSS\n耳机接口：USB Type-C\nWLAN（Wi-Fi）：802.11a/b/g/n/ac/ax 2.4GHz+5GHz, HE160, MIMO, 1024-QAM\nWLAN（Wi-Fi）直连：支持\n蓝牙版本：蓝牙 v5.3\nNFC：支持\nPC Sync.：S 换机助手（PC 版）"
+        },
+        {
+          "label": "外观",
+          "value": "外形：触屏直板"
+        },
+        {
+          "label": "物理规格",
+          "value": "尺寸 (高*宽*厚, mm)：146.3 x 70.9 x 7.6\n重量 (g)：168"
+        },
+        {
+          "label": "电池",
+          "value": "电池容量 (mAh, 典型值)：3900"
+        },
+        {
+          "label": "音频和视频",
+          "value": "立体声：支持\n视频播放格式：MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM\n视频播放分辨率：UHD 8K (7680 x 4320)@60fps\n音频播放格式：MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA, DFF, DSF, APE"
+        },
+        {
+          "label": "OS",
+          "value": "OS：Android"
+        },
+        {
+          "label": "传感器",
+          "value": "加速感应器, 气压传感器, 指纹识别器, 陀螺仪传感器, 地磁传感器, 霍尔传感器, 光线传感器, 近距传感器"
+        },
+        {
+          "label": "服务和应用程序",
+          "value": "设备支持：Galaxy Buds2 Pro,Galaxy Buds Pro,Galaxy Buds Live,Galaxy Buds+,Galaxy Buds2,Galaxy Buds,Galaxy Fit2,Galaxy Watch5,Galaxy Watch4,Galaxy Watch3,Galaxy Watch,Galaxy Watch Active2,Galaxy Watch Active,Gear Fit2 Pro,Gear Fit2,Gear Sport,Gear S3,Gear S2\n三星 DeX 扩展坞：支持"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-s23-fe-cream-128gb-sm-s7110zwdchc",
+      "brand": "三星",
+      "model": "Galaxy S23 FE",
+      "display": "三星 Galaxy S23 FE",
+      "category": "phone",
+      "sourceBrand": "三星",
+      "officialTitle": "galaxy s23 fe",
+      "sourceUrl": "https://www.samsung.com.cn/smartphones/galaxy-s/galaxy-s23-fe-cream-128gb-sm-s7110zwdchc/",
+      "fetchedAt": "2026-10-18T09:07:42.402Z",
+      "sections": [
+        {
+          "label": "处理器",
+          "value": "CPU 主频：2.99GHz, 2.4GHz, 1.7GHz\nCPU 核数：八核\nCPU：第一代骁龙8移动平台"
+        },
+        {
+          "label": "显示屏",
+          "value": "尺寸：6.4英寸(直角) / 6.3英寸(圆角)\n分辨率：1080 x 2340 (FHD+)\n类型：第二代动态AMOLED\n色彩：1600万色\n最高刷新率：120 Hz"
+        },
+        {
+          "label": "摄像头",
+          "value": "后置摄像头 - 分辨率 (多重)：5000万像素+1200万像素+800万像素\n后置摄像头 - 光圈 (多重)：F1.8 , F2.2 , F2.4\n后置摄像头 - 自动对焦：支持\n后置摄像头 - OIS：支持\n后置摄像头 - 变焦：光学变焦3倍，数码变焦高达30倍\n前置摄像头 - 分辨率：1000万像素\n前置摄像头 - 光圈：F2.4\n后置摄像头 - 闪光灯：支持\n视频拍摄：UHD 8K (7680 x 4320)@24fps\n慢动作：960fps @HD, 240fps @FHD"
+        },
+        {
+          "label": "存储/内存",
+          "value": "内存(GB)：8\n存储 (GB)：128\n用户可用存储(GB)：91.8（二进制）<br> 103.6GB（十进制）<br> *可用存储计算方式从现有的二进制改为十进制。计算方式的改变本身不会影响实际物理容量。"
+        },
+        {
+          "label": "网络",
+          "value": "卡槽数量：双卡\nSIM size：Nano-SIM (4FF)\n卡槽类型：SIM 1 + SIM 2\n2G GSM：GSM850, GSM900, DCS1800, PCS1900\n3G UMTS：B1(2100), B2(1900), B5(850), B8(900)"
+        },
+        {
+          "label": "网络频率 (中国)",
+          "value": "4G FDD LTE：B1(2100), B2(1900), B3(1800), B4(AWS), B5(850), B7(2600), B8(900), B12(700), B20(800), B28(700)\n4G TDD LTE：B34(2010), B38(2600), B39(1900), B40(2300), B41(2500)\n5G FDD Sub6：N1(2100), N8(900), N28(700)\n5G TDD Sub6：N41(2500), N78(3500), N79(4500)"
+        },
+        {
+          "label": "连接性",
+          "value": "USB 接口：USB Type-C\nUSB 版本：USB 3.2 Gen 1\n位置服务：GPS, Glonass, Beidou, Galileo, QZSS\n耳机接口：USB Type-C\nWLAN（Wi-Fi）：802.11 a/b/g/n/ac/ax 2.4G+5GHz+6GHz, HE160, MIMO, 1024-QAM\nWLAN（Wi-Fi）直连：支持\n蓝牙版本：蓝牙 v5.3\nNFC：支持\nPC Sync.：S 换机助手（PC 版）"
+        },
+        {
+          "label": "外观",
+          "value": "外形：触屏直板"
+        },
+        {
+          "label": "物理规格",
+          "value": "尺寸 (高*宽*厚, mm)：158.0 x 76.5 x 8.2\n重量 (g)：209"
+        },
+        {
+          "label": "电池",
+          "value": "电池容量 (mAh, 典型值)：4500"
+        },
+        {
+          "label": "音频和视频",
+          "value": "立体声：支持\n视频播放格式：MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM\n视频播放分辨率：UHD 8K (7680 x 4320)@60fps\n音频播放格式：MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA, DFF, DSF, APE"
+        },
+        {
+          "label": "传感器",
+          "value": "加速感应器, 气压传感器, 指纹识别器, 陀螺仪传感器, 地磁传感器, 霍尔传感器, 光线传感器, 虚拟近距离传感器"
+        },
+        {
+          "label": "服务和应用程序",
+          "value": "设备支持：Galaxy Buds2 Pro, Galaxy Buds Pro, Galaxy Buds Live, Galaxy Buds+, Galaxy Buds2, Galaxy Buds, Galaxy Fit2, Galaxy Watch6, Galaxy Watch5, Galaxy Watch4, Galaxy Watch3, Galaxy Watch, Galaxy Watch Active2, Galaxy Watch Active, Gear Fit2 Pro, Gear Sport, Gear S3, Gear S2\n三星 DeX 扩展坞：支持"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-s23-ultra-cream-1tb-sm-s9180zepchc",
+      "brand": "三星",
+      "model": "Galaxy S23 Ultra",
+      "display": "三星 Galaxy S23 Ultra",
+      "category": "phone",
+      "sourceBrand": "三星",
+      "officialTitle": "galaxy s23 ultra",
+      "sourceUrl": "https://www.samsung.com.cn/smartphones/galaxy-s/galaxy-s23-ultra-cream-1tb-sm-s9180zepchc/",
+      "fetchedAt": "2026-10-18T09:07:42.861Z",
+      "sections": [
+        {
+          "label": "处理器",
+          "value": "CPU 主频：3.36GHz,2.8GHz,2GHz\nCPU 核数：八核"
+        },
+        {
+          "label": "显示屏",
+          "value": "尺寸：6.8英寸(直角) / 6.8英寸(圆角)\n分辨率：3088 x 1440 (Quad HD+)\n类型：第二代动态AMOLED\n色彩：1600万色\n最高刷新率：120 Hz"
+        },
+        {
+          "label": "摄像头",
+          "value": "后置摄像头 - 分辨率 (多重)：2亿像素+1000万像素+1200万像素+1000万像素\n后置摄像头 - 光圈 (多重)：F1.7 , F4.9 , F2.2 , F2.4\n后置摄像头 - 自动对焦：支持\n后置摄像头 - OIS：支持\n后置摄像头 - 变焦：光学变焦3倍和10倍，数码变焦高达100倍\n前置摄像头 - 分辨率：1200万像素\n前置摄像头 - 光圈：F2.2\n前置摄像头 - 自动对焦：支持\n后置摄像头 - 闪光灯：支持\n视频拍摄：UHD 8K (7680 x 4320)@30fps\n慢动作：960fps @FHD, 240fps @FHD"
+        },
+        {
+          "label": "存储/内存",
+          "value": "内存(GB)：12\n存储 (TB)：1\n用户可用存储(GB)：912.8（二进制）<br>985.9（十进制）<br>*可用存储计算方式从现有的二进制改为十进制。计算方式的改变本身不会影响实际物理容量。"
+        },
+        {
+          "label": "网络",
+          "value": "卡槽数量：双卡\nSIM size：Nano-SIM (4FF)\n卡槽类型：SIM 1 + SIM 2\n2G GSM：GSM850,GSM900,DCS1800,PCS1900\n3G UMTS：B1(2100),B2(1900),B5(850),B8(900)"
+        },
+        {
+          "label": "网络频率 (中国)",
+          "value": "4G FDD LTE：B1(2100),B2(1900),B3(1800),B4(AWS),B5(850),B7(2600),B8(900),B12(700),B13(700),B18(800),B19(800),B20(800),B25(1900),B26(850),B28(700),B66(AWS-3)\n4G TDD LTE：B34(2010),B38(2600),B39(1900),B40(2300),B41(2500)\n5G FDD Sub6：N1(2100),N8(900),N28(700)\n5G TDD Sub6：N41(2500),N78(3500),N79(4500)"
+        },
+        {
+          "label": "连接性",
+          "value": "USB 接口：USB Type-C\nUSB 版本：USB 3.2 Gen 1\n位置服务：GPS, Glonass, Beidou, Galileo, QZSS\n耳机接口：USB Type-C\nWLAN（Wi-Fi）：802.11a/b/g/n/ac/ax 2.4GHz+5GHz, HE160, MIMO, 1024-QAM\nWLAN（Wi-Fi）直连：支持\n蓝牙版本：蓝牙 v5.3\nNFC：支持\n超宽带 (UWB)：支持\nPC Sync.：S 换机助手（PC 版）"
+        },
+        {
+          "label": "外观",
+          "value": "外形：触屏直板"
+        },
+        {
+          "label": "物理规格",
+          "value": "尺寸 (高*宽*厚, mm)：163.4 x 78.1 x 8.9\n重量 (g)：233"
+        },
+        {
+          "label": "电池",
+          "value": "电池容量 (mAh, 典型值)：5000"
+        },
+        {
+          "label": "音频和视频",
+          "value": "立体声：支持\n视频播放格式：MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM\n视频播放分辨率：UHD 8K (7680 x 4320)@60fps\n音频播放格式：MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA, DFF, DSF, APE"
+        },
+        {
+          "label": "S Pen",
+          "value": "支持"
+        },
+        {
+          "label": "OS",
+          "value": "OS：Android"
+        },
+        {
+          "label": "传感器",
+          "value": "加速感应器, 气压传感器, 指纹识别器, 陀螺仪传感器, 地磁传感器, 霍尔传感器, 光线传感器, 近距传感器"
+        },
+        {
+          "label": "服务和应用程序",
+          "value": "设备支持：Galaxy Buds2 Pro,Galaxy Buds Pro,Galaxy Buds Live,Galaxy Buds+,Galaxy Buds2,Galaxy Buds,Galaxy Fit2,Galaxy Watch5,Galaxy Watch4,Galaxy Watch3,Galaxy Watch,Galaxy Watch Active2,Galaxy Watch Active,Gear Fit2 Pro,Gear Fit2,Gear Sport,Gear S3,Gear S2\n三星 DeX 扩展坞：支持"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-z-flip4-blue-256gb-sm-f7210lbechc",
+      "brand": "三星",
+      "model": "Galaxy Z Flip 4",
+      "display": "三星 Galaxy Z Flip 4",
+      "category": "phone",
+      "sourceBrand": "三星",
+      "officialTitle": "galaxy z flip4",
+      "sourceUrl": "https://www.samsung.com.cn/smartphones/galaxy-z/galaxy-z-flip4-blue-256gb-sm-f7210lbechc/",
+      "fetchedAt": "2026-10-18T09:07:43.304Z",
+      "sections": [
+        {
+          "label": "处理器",
+          "value": "CPU 主频：3.18GHz,2.7GHz,2GHz\nCPU 核数：八核"
+        },
+        {
+          "label": "显示屏",
+          "value": "尺寸：6.7英寸(直角)/6.6英寸(圆角)\n分辨率：2640 x 1080 (FHD+)\n类型：第二代动态AMOLED\n色彩：1600万色\n最高刷新率：120Hz\n尺寸 (外屏)：1.9英寸(直角)/1.8英寸(圆角)\n分辨率 (外屏)：260 x 512\n类型 (外屏)：Super AMOLED\n色彩 (外屏)：1600万色"
+        },
+        {
+          "label": "摄像头",
+          "value": "后置摄像头 - 分辨率 (多重)：1200万像素+1200万像素\n后置摄像头 - 光圈 (多重)：F1.8 , F2.2\n后置摄像头 - 自动对焦：支持\n后置摄像头 - OIS：支持\n后置摄像头 - 变焦：数码变焦高达10倍\n前置摄像头 - 分辨率：1000万像素\n前置摄像头 - 光圈：F2.4\n后置摄像头 - 闪光灯：支持\n视频拍摄：UHD 4K (3840 x 2160)@60fps\n慢动作：960fps @HD, 240fps @FHD"
+        },
+        {
+          "label": "存储/内存",
+          "value": "内存(GB)：8\n存储 (GB)：256\n用户可用存储(GB)：209.1（二进制）<br>229.0（十进制）<br>*可用存储计算方式从现有的二进制改为十进制。计算方式的改变本身不会影响实际物理容量。"
+        },
+        {
+          "label": "网络",
+          "value": "卡槽数量：单卡\nSIM size：Nano-SIM (4FF)\n卡槽类型：SIM 1\nInfra：2G GSM,3G WCDMA,4G LTE FDD,4G LTE TDD,5G Sub6 FDD,5G Sub6 TDD\n2G GSM：GSM850,GSM900,DCS1800,PCS1900\n3G UMTS：B1(2100),B2(1900),B5(850),B8(900)"
+        },
+        {
+          "label": "网络频率 (中国)",
+          "value": "4G FDD LTE：B1(2100),B2(1900),B3(1800),B4(AWS),B5(850),B7(2600),B8(900),B12(700),B13(700),B18(800),B19(800),B20(800),B25(1900),B26(850),B28(700),B66(AWS-3)\n4G TDD LTE：B34(2010),B38(2600),B39(1900),B40(2300),B41(2500)\n5G FDD Sub6：N1(2100),N8(900),N28(700)\n5G TDD Sub6：N41(2500),N78(3500),N79(4500)"
+        },
+        {
+          "label": "连接性",
+          "value": "USB 接口：USB Type-C\nUSB 版本：USB 2.0\n位置服务：GPS, Glonass, Beidou, Galileo, QZSS\n耳机接口：USB Type-C\nWLAN（Wi-Fi）：802.11a/b/g/n/ac/ax 2.4GHz+5GHz, HE160, MIMO, 1024-QAM\nWLAN（Wi-Fi）直连：支持\n蓝牙版本：蓝牙 v5.2\nNFC：支持\nPC Sync.：S 换机助手（PC 版）"
+        },
+        {
+          "label": "外观",
+          "value": "外形：折叠"
+        },
+        {
+          "label": "物理规格",
+          "value": "尺寸 (高*宽*厚, mm)：165.2 x 71.9 x 6.9\n折叠尺寸 (高*宽*厚, mm)：84.9 x 71.9 x 15.9-17.1\n重量 (g)：187"
+        },
+        {
+          "label": "电池",
+          "value": "电池容量 (mAh, 典型值)：3700"
+        },
+        {
+          "label": "音频和视频",
+          "value": "立体声：支持\n视频播放格式：MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM\n视频播放分辨率：UHD 8K (7680 x 4320)@60fps\n音频播放格式：MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA, DFF, DSF, APE"
+        },
+        {
+          "label": "OS",
+          "value": "OS：Android"
+        },
+        {
+          "label": "传感器",
+          "value": "加速感应器, 气压传感器, 指纹识别器, 陀螺仪传感器, 地磁传感器, 霍尔传感器, 光线传感器, 近距传感器"
+        },
+        {
+          "label": "服务和应用程序",
+          "value": "设备支持：Galaxy Buds2 Pro,Galaxy Buds Pro,Galaxy Buds Live,Galaxy Buds+,Galaxy Buds2,Galaxy Buds,Galaxy Fit2,Galaxy Fit e,Galaxy Fit,Galaxy Watch5,Galaxy Watch4,Galaxy Watch3,Galaxy Watch,Galaxy Watch Active2,Galaxy Watch Active,Gear Fit2 Pro,Gear Fit2,Gear Sport,Gear S3,Gear S2,Gear IconX (2018)"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-z-fold4-beige-1tb-sm-f9360zehchc",
+      "brand": "三星",
+      "model": "Galaxy Z Fold 4",
+      "display": "三星 Galaxy Z Fold 4",
+      "category": "phone",
+      "sourceBrand": "三星",
+      "officialTitle": "galaxy z fold4",
+      "sourceUrl": "https://www.samsung.com.cn/smartphones/galaxy-z/galaxy-z-fold4-beige-1tb-sm-f9360zehchc/",
+      "fetchedAt": "2026-10-18T09:07:43.746Z",
+      "sections": [
+        {
+          "label": "处理器",
+          "value": "CPU 主频：3.18GHz,2.7GHz,2GHz\nCPU 核数：八核"
+        },
+        {
+          "label": "显示屏",
+          "value": "尺寸：7.6英寸(直角)/7.4英寸(圆角)\n分辨率：2176 x 1812 (QXGA+)\n类型：第二代动态AMOLED\n色彩：1600万色\n最高刷新率：120Hz\n尺寸 (外屏)：6.2英寸(直角)/6.1英寸(圆角)\n分辨率 (外屏)：2316 x 904 (HD+)\n类型 (外屏)：第二代动态AMOLED\n色彩 (外屏)：1600万色"
+        },
+        {
+          "label": "摄像头",
+          "value": "后置摄像头 - 分辨率 (多重)：5000万像素+1200万像素+1000万像素\n后置摄像头 - 光圈 (多重)：F1.8 , F2.2 , F2.4\n后置摄像头 - 自动对焦：支持\n后置摄像头 - OIS：支持\n后置摄像头 - 变焦：光学变焦3倍，数码变焦高达30倍\n屏下摄像头 - 分辨率：400万像素\n屏下摄像头 - 光圈：F1.8\n后置摄像头 - 闪光灯：支持\n外部前置自拍摄像头 - 分辨率：1000万像素\n外部前置自拍摄像头 - 光圈：F2.2\n视频拍摄：UHD 8K (7680 x 4320)@24fps\n慢动作：960fps @HD, 240fps @FHD"
+        },
+        {
+          "label": "存储/内存",
+          "value": "内存(GB)：12\n存储 (TB)：1\n用户可用存储(GB)：917.3（二进制）<br>986.3（十进制）<br>*可用存储计算方式从现有的二进制改为十进制。计算方式的改变本身不会影响实际物理容量。"
+        },
+        {
+          "label": "网络",
+          "value": "卡槽数量：双卡\nSIM size：Nano-SIM (4FF)\n卡槽类型：SIM 1 + SIM 2\nInfra：2G GSM,3G WCDMA,4G LTE FDD,4G LTE TDD,5G Sub6 FDD,5G Sub6 TDD\n2G GSM：GSM850,GSM900,DCS1800,PCS1900\n3G UMTS：B1(2100),B2(1900),B5(850),B8(900)"
+        },
+        {
+          "label": "网络频率 (中国)",
+          "value": "4G FDD LTE：B1(2100),B2(1900),B3(1800),B4(AWS),B5(850),B7(2600),B8(900),B12(700),B13(700),B18(800),B19(800),B20(800),B25(1900),B26(850),B28(700),B66(AWS-3)\n4G TDD LTE：B34(2010),B38(2600),B39(1900),B40(2300),B41(2500)\n5G FDD Sub6：N1(2100),N8(900),N28(700)\n5G TDD Sub6：N41(2500),N78(3500),N79(4500)"
+        },
+        {
+          "label": "连接性",
+          "value": "USB 接口：USB Type-C\nUSB 版本：USB 3.2 Gen 1\n位置服务：GPS, Glonass, Beidou, Galileo, QZSS\n耳机接口：USB Type-C\nWLAN（Wi-Fi）：802.11a/b/g/n/ac/ax 2.4GHz+5GHz, HE160, MIMO, 1024-QAM\nWLAN（Wi-Fi）直连：支持\n蓝牙版本：蓝牙 v5.2\nNFC：支持\n超宽带 (UWB)：支持\nPC Sync.：S 换机助手（PC 版）"
+        },
+        {
+          "label": "外观",
+          "value": "外形：折叠"
+        },
+        {
+          "label": "物理规格",
+          "value": "尺寸 (高*宽*厚, mm)：155.1 x 130.1 x 6.3\n折叠尺寸 (高*宽*厚, mm)：155.1 x 67.1 x 15.8-14.2\n重量 (g)：263"
+        },
+        {
+          "label": "电池",
+          "value": "电池容量 (mAh, 典型值)：4400"
+        },
+        {
+          "label": "音频和视频",
+          "value": "立体声：支持\n视频播放格式：MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM\n视频播放分辨率：UHD 8K (7680 x 4320)@60fps\n音频播放格式：MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA, DFF, DSF, APE"
+        },
+        {
+          "label": "S Pen",
+          "value": "（主屏幕）支持"
+        },
+        {
+          "label": "OS",
+          "value": "OS：Android"
+        },
+        {
+          "label": "传感器",
+          "value": "加速感应器, 气压传感器, 指纹识别器, 陀螺仪传感器, 地磁传感器, 霍尔传感器, 光线传感器, 近距传感器"
+        },
+        {
+          "label": "服务和应用程序",
+          "value": "设备支持：Galaxy Buds FE,Galaxy Buds2 Pro,Galaxy Buds Pro,Galaxy Buds Live,Galaxy Buds+,Galaxy Buds2,Galaxy Buds,Galaxy Fit2,Galaxy Watch6,Galaxy Watch5,Galaxy Watch4,Galaxy Watch3,Galaxy Watch,Galaxy Watch Active2,Galaxy Watch Active,Gear Fit2 Pro,Gear Sport,Gear S3\n三星 DeX 扩展坞：支持"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-z-trifold-crafted-black-1tb-sm-f9680zkgchc",
+      "brand": "三星",
+      "model": "Galaxy Z TriFold",
+      "display": "三星 Galaxy Z TriFold",
+      "category": "phone",
+      "sourceBrand": "三星",
+      "officialTitle": "galaxy z trifold",
+      "sourceUrl": "https://www.samsung.com.cn/smartphones/galaxy-z/galaxy-z-trifold-crafted-black-1tb-sm-f9680zkgchc/",
+      "fetchedAt": "2026-10-18T09:07:44.192Z",
+      "sections": [
+        {
+          "label": "处理器",
+          "value": "CPU 主频：4.47GHz, 3.5GHz\nCPU 核数：八核"
+        },
+        {
+          "label": "显示屏",
+          "value": "尺寸：10.0英寸（直角）/9.9英寸（圆角）\n分辨率：2160 x 1584 (QXGA+)\n类型：第二代动态AMOLED\n色彩：1600万色\n最高刷新率：120 Hz\n尺寸 (外屏)：6.5英寸(直角)/6.5英寸(圆角)\n分辨率 (外屏)：2520 x 1080 (FHD+)\n类型 (外屏)：第二代动态AMOLED\n色彩 (外屏)：1600万色"
+        },
+        {
+          "label": "摄像头",
+          "value": "后置摄像头 - 分辨率 (多重)：2亿像素+1200万像素+1000万像素\n后置摄像头 - 光圈 (多重)：F1.7 , F2.2 , F2.4\n后置摄像头 - 自动对焦：支持\n后置摄像头 - OIS：支持\n后置摄像头 - 变焦：光学变焦3倍，光学品质变焦2倍 (通过自适应像素传感器实现)数码变焦高达30倍\n前置摄像头 - 分辨率：1000万像素\n前置摄像头 - 光圈：F2.2\n后置摄像头 - 闪光灯：支持\n外部前置自拍摄像头 - 分辨率：1000万像素\n外部前置自拍摄像头 - 光圈：F2.2\n视频拍摄：UHD 8K (7680 x 4320)@30fps\n慢动作：240fps @FHD, 120fps @FHD, 120fps @UHD"
+        },
+        {
+          "label": "存储/内存",
+          "value": "内存(GB)：16\n存储 (TB)：1\n用户可用存储(GB)：977.2"
+        },
+        {
+          "label": "网络",
+          "value": "卡槽数量：双卡\nSIM size：Nano-SIM卡\n卡槽类型：SIM 1 + SIM 2\n2G GSM：GSM850, GSM900, DCS1800, PCS1900\n3G UMTS：B1(2100), B2(1900), B5(850), B8(900)"
+        },
+        {
+          "label": "网络频率 (中国)",
+          "value": "4G FDD LTE：B1(2100), B2(1900), B3(1800), B4(AWS), B5(850), B7(2600), B8(900), B12(700), B13(700), B18(800), B19(800), B20(800), B25(1900), B26(850), B28(700), B66(AWS-3)\n4G TDD LTE：B34(2010), B38(2600), B39(1900), B40(2300), B41(2500)\n5G FDD Sub6：N1(2100), N2(1900), N3(1800), N5(850), N7(2600), N8(900), N12(700), N20(800), N25(1900), N28(700), N66(AWS-3)\n5G TDD Sub6：N38(2600), N40(2300), N41(2500), N77(3700), N78(3500), N79(4500)"
+        },
+        {
+          "label": "连接性",
+          "value": "USB 接口：USB Type-C\nUSB 版本：USB 3.2 Gen 1\n位置服务：GPS, Glonass, Beidou, Galileo, QZSS\n耳机接口：USB Type-C\nWLAN（Wi-Fi）：802.11a/b/g/n/ac/ax/be 2.4GHz+5GHz, EHT160, MIMO, 4096-QAM\nWLAN（Wi-Fi）直连：支持\n蓝牙版本：蓝牙 v5.4\nNFC：支持\n超宽带 (UWB)：支持\nPC Sync.：S 换机助手（PC 版）"
+        },
+        {
+          "label": "外观",
+          "value": "外形：折叠"
+        },
+        {
+          "label": "物理规格",
+          "value": "折叠尺寸 (高*宽*厚, mm)：159.2 x 75.0 x 12.9\n展开尺寸 (高*宽*厚, mm)：159.2 x 214.1 x 3.9-4.2\n重量 (g)：309"
+        },
+        {
+          "label": "电池",
+          "value": "电池容量 (mAh, 典型值)：5600"
+        },
+        {
+          "label": "音频和视频",
+          "value": "立体声：支持\n视频播放格式：MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM\n视频播放分辨率：UHD 8K (7680 x 4320)@60fps\n音频播放格式：MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA, DFF, DSF, APE"
+        },
+        {
+          "label": "OS",
+          "value": "OS：Android"
+        },
+        {
+          "label": "传感器",
+          "value": "加速感应器, 气压传感器, 指纹识别器, 陀螺仪传感器, 地磁传感器, 霍尔传感器, 光线传感器, 近距传感器"
+        },
+        {
+          "label": "服务和应用程序",
+          "value": "设备支持：Galaxy Ring,Galaxy Buds3 Pro,Galaxy Buds2 Pro,Galaxy Buds Pro,Galaxy Buds Live,Galaxy Buds+,Galaxy Buds3,Galaxy Buds2,Galaxy Buds,Galaxy Buds3 FE,Galaxy Buds FE,Galaxy Fit3,Galaxy Fit2,Galaxy Watch Ultra,Galaxy Watch8,Galaxy Watch7,Galaxy Watch6,Galaxy Watch5,Galaxy Watch4,Galaxy Watch3,Galaxy Watch,Galaxy Watch Active2,Galaxy Watch Active\n三星 DeX 扩展坞：支持\n蓝牙助听器支持：安卓ASHA协议\nSmartThings：支持"
+        },
+        {
+          "label": "软件支持",
+          "value": "安全更新期间（有效期）：2032年12月31日"
+        }
+      ]
+    }
+  ]
+}
